@@ -1,0 +1,71 @@
+{
+  "summary": "By 2030, AI systems are expected to achieve significant autonomy and multi-domain capabilities within bounded, well-defined domains but will likely fall short of fully general, unsupervised, and robustly autonomous agents. Deployment will be shaped by technical progress, regulatory constraints, safety concerns, and public trust, resulting in high-autonomy AI in structured, lower-risk settings with persistent human oversight in critical or open-ended domains.",
+  "key_predictions": [
+    {
+      "prediction": "Multi-modal, agentic AI systems with moderate autonomy and human oversight become common in business and consumer applications by 2024–2026.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "By 2027–2030, narrowly general AI agents will operate with high autonomy across multiple structured domains such as office automation and logistics, with regulatory approvals in select areas.",
+      "time_horizon": "medium",
+      "confidence": 0.75
+    },
+    {
+      "prediction": "No robust, open-ended, cross-domain AGI will be deployed in practical settings by 2030.",
+      "time_horizon": "medium",
+      "confidence": 0.85
+    },
+    {
+      "prediction": "Regulatory regimes will tighten, especially following any high-profile AI failures, limiting deployment in critical infrastructure and high-risk sectors.",
+      "time_horizon": "medium",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "High-profile failures or successes of autonomous AI systems will significantly influence public trust and regulatory responses.",
+      "time_horizon": "near to medium",
+      "confidence": 0.7
+    }
+  ],
+  "assumptions": [
+    "No sudden 'hard takeoff' to human-level generality and autonomy (AGI) before 2030.",
+    "Regulatory frameworks will become more stringent, especially after incidents.",
+    "Technical progress will continue but robustness and alignment challenges will persist for open-ended tasks.",
+    "Economic and competitive incentives will push deployment up to safety and regulatory limits.",
+    "Public trust in AI autonomy will remain fragile and sensitive to visible failures or misuse."
+  ],
+  "uncertainties": [
+    "Definition and measurement of 'task generality' and 'autonomy' lack standardization.",
+    "Potential for unforeseen technical breakthroughs enabling robust, cross-domain autonomous AI.",
+    "Regulatory and geopolitical shifts that could accelerate or constrain AI deployment.",
+    "Public acceptance and social feedback loops influencing adoption and oversight.",
+    "Opacity of private-sector AI research pipelines delaying visibility of breakthroughs."
+  ],
+  "signals_to_monitor": [
+    "Breakthrough publications demonstrating robust, self-directed problem-solving across diverse, open-ended tasks.",
+    "Major regulatory decisions approving or banning fully autonomous AI in critical domains.",
+    "Reports of fully autonomous AI systems operating critical infrastructure or public services without human oversight.",
+    "High-profile incidents involving highly autonomous AI, both failures and successes.",
+    "Emergence of credible open-source AGI projects showing rapid progress toward generality and autonomy."
+  ],
+  "next_questions": [
+    "What technical or regulatory breakthroughs are necessary to safely deploy fully autonomous, cross-domain AI before 2030?",
+    "How can 'generality' and 'autonomy' be effectively measured and benchmarked in deployed AI systems?",
+    "Which governance structures best oversee high-autonomy AI in critical domains?",
+    "How will labor markets adapt to narrowly general AI, and which job categories are most at risk?",
+    "What early-warning indicators can effectively signal unsafe or misaligned autonomous AI behavior?"
+  ],
+  "extracted_at": "2026-06-20T13:37:26.677573+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "artificial intelligence",
+    "question": "What is the maximum level of task generality and autonomy that AI systems will achieve before 2030 without direct human oversight?",
+    "why_it_matters": "Knowing this informs governance, safety protocols, and economic planning around AI deployment and labor displacement.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "breakthrough publications in general AI",
+      "deployment of autonomous AI in critical infrastructure",
+      "regulatory approvals for fully autonomous AI systems"
+    ]
+  }
+}

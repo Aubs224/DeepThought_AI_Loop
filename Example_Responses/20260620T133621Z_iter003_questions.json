@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "What is the maximum level of autonomous decision-making achievable by AI systems without human ethical oversight before unacceptable risk thresholds are crossed?",
+      "why_it_matters": "Determining this threshold informs governance and deployment policies, balancing innovation with safety.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "advancements in AI autonomy",
+        "incidents of AI ethical failures",
+        "regulatory responses to AI autonomy"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "To what extent can global internet infrastructure be decentralized within the next decade to prevent large-scale outages and censorship?",
+      "why_it_matters": "Decentralization impacts resilience, information freedom, and geopolitical control over digital communication.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "deployment of decentralized network protocols",
+        "major internet outages",
+        "policies affecting internet governance"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Will multipolar geopolitical tensions escalate into systemic global conflict within the next 20 years, or will new diplomatic frameworks prevent it?",
+      "why_it_matters": "Understanding this risk influences defense strategy, international cooperation efforts, and economic planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "military build-ups",
+        "emergence of new alliances",
+        "peace treaty negotiations"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Can large-scale direct democratic governance models enabled by digital platforms maintain social cohesion and prevent authoritarian backsliding within 15 years?",
+      "why_it_matters": "Answers affect the future of political systems and citizen engagement worldwide.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "adoption rates of digital voting",
+        "cases of digital platform manipulation",
+        "public trust metrics"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will automation-driven displacement cause net permanent global unemployment above 15% within 20 years, or will new job sectors emerge to absorb displaced workers?",
+      "why_it_matters": "This determination guides economic policy, social safety nets, and education priorities.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "automation adoption rates",
+        "unemployment statistics by sector",
+        "growth of new industries"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Can we develop effective, broadly deployable anti-aging therapies that significantly increase human healthspan within the next 25 years?",
+      "why_it_matters": "Such therapies would reshape demographics, healthcare systems, and societal structures.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "clinical trial results",
+        "biomedical technology patents",
+        "regulatory approvals"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Is it feasible for renewable energy sources to provide at least 75% of global energy consumption by 2040 without causing major supply instability?",
+      "why_it_matters": "Determines viability of climate mitigation strategies and energy security planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "renewable energy capacity growth",
+        "grid stability metrics",
+        "energy storage technology breakthroughs"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will AI-generated content surpass 50% of global media consumption within the next 10 years, and how will this shift influence cultural diversity and disinformation risks?",
+      "why_it_matters": "Impacts media economics, cultural preservation, and information integrity.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "market share of AI-generated media",
+        "public surveys on content trust",
+        "incidence of AI-driven misinformation"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:36:28.719513+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

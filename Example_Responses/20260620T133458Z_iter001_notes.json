@@ -1,0 +1,64 @@
+{
+  "summary": "Quantum computing poses a credible but uncertain threat to current public-key cryptography within the next 10–20 years. While practical quantum computers capable of breaking RSA/ECC are not yet realized, ongoing PQC standardization and migration efforts are critical. Multiple plausible futures exist, ranging from gradual transition to sudden breakthroughs. Stakeholders should monitor quantum hardware progress, cryptanalytic advances, and PQC adoption to adapt strategies accordingly.",
+  "key_predictions": [
+    {
+      "prediction": "PQC standards will be finalized and pilot deployments will begin in high-security sectors between 2024 and 2026.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "Gradual, sector-by-sector migration to PQC will occur from 2027 to 2032, with finance, government, and cloud sectors adopting PQC by default.",
+      "time_horizon": "medium",
+      "confidence": 0.85
+    },
+    {
+      "prediction": "Quantum computers capable of threatening RSA/ECC at meaningful key sizes may emerge between 2030 and 2040, with 2040+ more likely.",
+      "time_horizon": "long",
+      "confidence": 0.6
+    },
+    {
+      "prediction": "Full deprecation of vulnerable cryptosystems in critical infrastructure will occur between 2040 and 2050, though legacy vulnerabilities will persist longer.",
+      "time_horizon": "long",
+      "confidence": 0.7
+    }
+  ],
+  "assumptions": [
+    "No unknown, more efficient quantum algorithms for breaking cryptography will be discovered imminently.",
+    "Quantum hardware progress will continue roughly doubling qubit counts every 1–2 years.",
+    "Current PQC algorithms will remain secure against both classical and quantum attacks.",
+    "State actors will not achieve secret, large-scale quantum breakthroughs far ahead of public knowledge."
+  ],
+  "uncertainties": [
+    "The pace and nature of quantum hardware and algorithmic progress, which may be nonlinear and subject to sudden breakthroughs or setbacks.",
+    "Potential discovery of unknown quantum algorithms that could drastically shorten the threat timeline.",
+    "The real-world complexity and cost of migrating legacy infrastructure to PQC.",
+    "The extent and timing of secret state-level quantum capabilities and their impact on threat assessments."
+  ],
+  "signals_to_monitor": [
+    "Demonstrated quantum supremacy on cryptographic tasks, such as breaking 128–256 bit RSA/ECC keys.",
+    "Announcements of error-corrected quantum computers with more than 10,000 logical qubits.",
+    "Discovery of new quantum algorithms that significantly improve attack efficiency on current or PQC algorithms.",
+    "Practical cryptanalytic breaks of leading PQC candidates requiring re-standardization.",
+    "PQC adoption rates in critical infrastructure and high-security sectors."
+  ],
+  "next_questions": [
+    "How resilient are current PQC candidates to both quantum and classical cryptanalysis?",
+    "What is the real-world cost and complexity of migrating legacy infrastructure to PQC?",
+    "Are there plausible 'unknown unknowns' in quantum algorithms that could upend current forecasts?",
+    "What are the most effective incentives or mandates to accelerate PQC adoption in lagging sectors?",
+    "How should organizations manage data with long confidentiality lifespans to mitigate 'harvest now, decrypt later' risks during the transition?"
+  ],
+  "extracted_at": "2026-06-20T13:35:38.234088+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "technology infrastructure",
+    "question": "How soon will quantum computing breakthroughs render current cryptographic systems insecure, necessitating a global transition to post-quantum cryptography?",
+    "why_it_matters": "Timing this transition is critical to securing financial, governmental, and personal data before vulnerabilities are exploited.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "demonstrations of quantum supremacy on cryptography tasks",
+      "adoption rates of post-quantum standards",
+      "reports of cryptographic breaches"
+    ]
+  }
+}

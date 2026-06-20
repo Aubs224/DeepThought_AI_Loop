@@ -1,0 +1,115 @@
+{
+  "selected_at": "2026-06-20T13:37:04.251714+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 0,
+  "selected_question": {
+    "domain": "artificial intelligence",
+    "question": "What is the maximum level of task generality and autonomy that AI systems will achieve before 2030 without direct human oversight?",
+    "why_it_matters": "Knowing this informs governance, safety protocols, and economic planning around AI deployment and labor displacement.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "breakthrough publications in general AI",
+      "deployment of autonomous AI in critical infrastructure",
+      "regulatory approvals for fully autonomous AI systems"
+    ]
+  },
+  "selected_score": {
+    "index": 0,
+    "importance": 9,
+    "uncertainty": 8,
+    "actionability": 7,
+    "novelty": 8,
+    "falsifiability": 6,
+    "rationale": "AI autonomy and generality are critical for governance and safety; timeline is plausible but uncertain; measurable by deployment and oversight status.",
+    "total": 7.76
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 6,
+      "rationale": "AI autonomy and generality are critical for governance and safety; timeline is plausible but uncertain; measurable by deployment and oversight status.",
+      "total": 7.76
+    },
+    {
+      "index": 1,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Semiconductor supply resilience is vital for tech economy; geopolitical factors add uncertainty; measurable by supply chain metrics and disruptions.",
+      "total": 7.26
+    },
+    {
+      "index": 2,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Cyber defense effectiveness impacts global security; coordination efforts are ongoing but outcomes uncertain; measurable via attack frequency and scale.",
+      "total": 7.56
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 6,
+      "actionability": 7,
+      "novelty": 6,
+      "falsifiability": 8,
+      "rationale": "Legal AI oversight shapes ethical deployment; political processes are somewhat predictable; measurable by legislation and agency establishment.",
+      "total": 7.08
+    },
+    {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 6,
+      "rationale": "Job automation affects economy and social policy; projections vary widely; measurable by labor market data and automation adoption.",
+      "total": 7.74
+    },
+    {
+      "index": 5,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Universal flu vaccine would transform public health; scientific challenges remain; measurable by vaccine approval and efficacy.",
+      "total": 7.46
+    },
+    {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Net-zero emissions critical for climate; economic impact uncertain; measurable by emissions data and economic indicators.",
+      "total": 7.66
+    },
+    {
+      "index": 7,
+      "importance": 7,
+      "uncertainty": 8,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "AI media engagement affects culture and IP; market trends volatile; measurable by audience metrics and market share.",
+      "total": 7.22
+    }
+  ]
+}

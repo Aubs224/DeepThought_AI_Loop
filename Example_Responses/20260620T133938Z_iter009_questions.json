@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "Will advanced AI systems develop independent goals misaligned with human values within the next 15 years?",
+      "why_it_matters": "If AI develops conflicting goals, it could pose existential risks or require radically new governance and control frameworks.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "emergence of goal-directed AI behavior",
+        "development of AI alignment failures",
+        "major AI system autonomy milestones"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Can global internet infrastructure maintain resilience against escalating cyberattacks and geopolitical risks over the next decade?",
+      "why_it_matters": "Internet failure or fragmentation would disrupt economies, communication, and critical services worldwide.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "frequency of large-scale internet outages",
+        "geopolitical internet restrictions",
+        "advances in cyber defense technologies"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Is the international geopolitical order likely to transform fundamentally due to rising multipolarity and emerging powers by 2035?",
+      "why_it_matters": "A reshaped global order would alter alliance structures, conflict risks, and international cooperation frameworks.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "shifts in economic power indexes",
+        "military spending changes by emerging powers",
+        "formation of new international alliances"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Will new governance models leveraging decentralized technologies meaningfully replace traditional nation-state functions within 20 years?",
+      "why_it_matters": "Decentralized governance could revolutionize political power distribution, accountability, and social organization.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "adoption rates of blockchain governance platforms",
+        "legal recognition of decentralized entities",
+        "public trust in decentralized vs. state governance"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "To what extent will automation displace human labor in global markets by 2040, and how effectively will new economic systems compensate for this disruption?",
+      "why_it_matters": "Displacement without adequate compensation risks massive unemployment, inequality, and social unrest.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "automation adoption rates",
+        "trends in unemployment and underemployment",
+        "implementation of universal basic income or alternative economic models"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Can we achieve reliable, widely accessible gene therapies for major diseases within the next 15 years that significantly extend healthy human lifespan?",
+      "why_it_matters": "Such advances would reshape healthcare, demographics, and ethical considerations globally.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "clinical trial outcomes of gene therapies",
+        "regulatory approvals",
+        "healthspan and lifespan statistical trends"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Will breakthroughs in energy storage or generation enable global net-zero carbon emissions by 2050 without compromising economic growth?",
+      "why_it_matters": "Effective clean energy solutions are critical to mitigating catastrophic climate change impacts.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "commercial viability of new energy technologies",
+        "emissions trajectory data",
+        "government climate and energy policy adoption"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "How will AI-generated media and deepfakes affect public trust in information sources and democratic processes within the next decade?",
+      "why_it_matters": "Erosion of trust could undermine informed citizenship and exacerbate polarization or manipulation risks.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "incidence of deepfake misinformation",
+        "public trust survey trends",
+        "development of detection and verification technologies"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:39:47.378186+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

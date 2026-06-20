@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "What is the maximum level of task generality and autonomy that AI systems will achieve before 2030 without direct human oversight?",
+      "why_it_matters": "Knowing this informs governance, safety protocols, and economic planning around AI deployment and labor displacement.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "breakthrough publications in general AI",
+        "deployment of autonomous AI in critical infrastructure",
+        "regulatory approvals for fully autonomous AI systems"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Will global semiconductor supply chains achieve resilience to geopolitical disruptions by 2027, reducing the risk of multi-month chip shortages?",
+      "why_it_matters": "Semiconductor availability underpins nearly all modern technology and economic stability in tech-dependent sectors.",
+      "time_horizon": "near",
+      "signals_to_watch": [
+        "new semiconductor fabrication plants operational",
+        "government policies on chip production",
+        "reported supply chain disruptions"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Can global coordinated cyber defense mechanisms reduce successful large-scale cyberattacks by nation-states by over 50% within the next five years?",
+      "why_it_matters": "Cyberattacks threaten critical infrastructure and geopolitical stability; effectiveness of defense coordination changes risk assessments.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "agreements on cyber norms",
+        "frequency and scale of state-level cyberattacks",
+        "implementation of joint cyber defense exercises"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Will at least one major democratic nation institute legally binding AI oversight institutions with enforcement powers by 2028?",
+      "why_it_matters": "Legal oversight frameworks will shape the safety and ethical deployment of AI technologies globally.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "legislation proposals on AI governance",
+        "establishment of AI regulatory agencies",
+        "public and political opinion shifts on AI risks"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "What percentage of current full-time professional jobs will be significantly automated by 2030 leading to structural unemployment without retraining programs?",
+      "why_it_matters": "Understanding this percentage guides investments in education, social safety nets, and economic policy reforms.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "adoption rates of automation technologies",
+        "labor market displacement statistics",
+        "government policy responses on unemployment"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Will a universally effective, single-dose vaccine for all major influenza strains be developed and approved for mass use by 2030?",
+      "why_it_matters": "Such a vaccine would drastically reduce seasonal flu burdens and reshape public health planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "clinical trial results",
+        "regulatory approvals for broad-spectrum vaccines",
+        "research funding allocations"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Can global energy systems achieve net-zero carbon emissions by 2050 through scalable clean tech innovations without causing economic recession?",
+      "why_it_matters": "This determines climate change mitigation feasibility balanced against economic growth and stability.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "deployment rates of renewable energy",
+        "carbon emission statistics",
+        "economic growth indicators"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will interactive AI-generated media content surpass traditional human-created media in audience engagement metrics by 2028?",
+      "why_it_matters": "This shift affects cultural production, intellectual property norms, and media economics.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "market share of AI-generated content",
+        "user engagement statistics",
+        "investment levels in AI media platforms"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:36:57.800414+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

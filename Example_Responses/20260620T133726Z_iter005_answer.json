@@ -1,0 +1,121 @@
+{
+  "answered_at": "2026-06-20T13:37:52.483406+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nCan scalable, economically viable carbon capture and storage technologies remove over 1 gigaton of CO2 annually from the atmosphere before 2035?\n\nContext:\nDomain: climate and energy\nWhy it matters: If feasible, carbon capture could be crucial in meeting climate targets and shaping energy policies.\nInitial signals to watch: commercial deployments of carbon capture facilities, cost trends for capture technologies, government incentives and funding levels\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nThe prospect of removing over 1 gigaton (Gt) of CO₂ annually from the atmosphere via scalable, economically viable carbon capture and storage (CCS) technologies before 2035 is uncertain and faces significant hurdles. While technical progress and policy interest are accelerating, current deployments and cost structures are far from the required scale. Achieving this target depends on rapid cost declines, massive capital mobilization, supportive policy, and resolution of technical and social challenges. The most plausible scenario is that CCS will grow substantially but fall short of the 1 Gt/year atmospheric removal threshold by 2035, unless there is a step-change in economics or policy.\n\n---\n\n**2. Why This Question Is Hard**\n\n- **Scale and Pace:** Removing 1 Gt CO₂/year is an order-of-magnitude leap from today’s capture rates, requiring exponential growth.\n- **Economic Viability:** “Economically viable” is context-dependent—costs must fall to levels competitive with alternatives (abatement, renewables, offsets).\n- **Technology Readiness:** Most direct air capture (DAC) and bioenergy with CCS (BECCS) projects are at pilot or early commercial stages.\n- **Infrastructure Needs:** Transport, storage, and monitoring infrastructure must be built out at continental scale.\n- **Policy and Social License:** CCS faces public skepticism, permitting hurdles, and uncertain long-term liability.\n\n---\n\n**3. Current Forces and Constraints**\n\n- **Deployment Status:** As of 2024, global CCS capacity (including point-source capture) is ~50 Mt CO₂/year; atmospheric removals (DAC+BECCS) are <1 Mt/year.\n- **Cost Trends:** DAC costs range from $600–$1,200/tCO₂; BECCS is lower but still expensive. Point-source CCS can be $50–$150/tCO₂.\n- **Policy Signals:** US Inflation Reduction Act, EU Net Zero Industry Act, and other incentives are ramping up, but funding is still modest relative to need.\n- **Private Investment:** Growing but cautious; most capital is for point-source CCS, not atmospheric removals.\n- **Storage Readiness:** Geological storage is proven but underdeveloped at necessary scale; permitting is slow.\n- **Public Perception:** CCS is controversial, especially for fossil fuel applications; DAC and BECCS have less opposition but limited visibility.\n\n---\n\n**4. Three to Five Plausible Futures**\n\n**A. Incremental Growth, Sub-Gigaton Scale (Most Likely)**\n- CCS and CDR (carbon dioxide removal) scale to 100–300 Mt/year by 2035, mainly via point-source capture and pilot DAC/BECCS.\n- Costs decline, but not enough for mass adoption.\n- Policy support is steady but not transformative.\n\n**B. Policy-Driven Surge**\n- Strong global carbon pricing, mandates, or subsidies drive rapid buildout.\n- Costs fall to <$200/tCO₂ for DAC/BECCS.\n- 1 Gt/year is narrowly achieved by 2035, but only with major government intervention.\n\n**C. Tech Breakthrough**\n- Unexpected advances (e.g., new sorbents, process intensification) slash costs by >80%.\n- Private capital floods in; gigaton-scale deployment by 2035 becomes feasible.\n\n**D. Stagnation or Backlash**\n- Policy reversals, cost overruns, or storage accidents undermine confidence.\n- Deployment stalls at <100 Mt/year; CCS loses political and financial support.\n\n**E. Niche-Only Expansion**\n- CCS grows, but only for industrial point sources (cement, steel).\n- Atmospheric removal (DAC/BECCS) remains a demonstration-scale technology.\n\n---\n\n**5. Key Assumptions**\n\n- Cost curves for DAC/BECCS follow learning rates similar to solar/wind (20–30%/doubling).\n- Sufficient CO₂ storage sites are permitted and developed.\n- Policy support is sustained or increases.\n- Public opposition does not create major delays.\n- Competing mitigation/removal technologies do not outpace CCS on cost/effectiveness.\n\n---\n\n**6. Predictions with Time Horizons**\n\n- **By 2027:** Global DAC/BECCS capacity reaches 5–10 Mt/year. Point-source CCS grows to 70–100 Mt/year.\n- **By 2030:** If current trends continue, atmospheric CO₂ removal via CCS reaches 20–50 Mt/year; point-source CCS 150–200 Mt/year.\n- **By 2035:** Without major breakthroughs or policy shifts, atmospheric CO₂ removal via CCS likely in the 50–300 Mt/year range—well below 1 Gt/year.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n- **Major cost breakthroughs:** DAC/BECCS costs drop below $100/tCO₂.\n- **Gigaton-scale storage sites:** Permitting and operation of multiple, large-scale CO₂ storage hubs.\n- **Massive public/private investment:** $100B+/year globally in CCS/CDR.\n- **Binding international mandates:** G20 or UN climate agreements requiring large-scale CCS deployment.\n- **Widespread public acceptance:** Polls and permitting show minimal opposition.\n\n---\n\n**8. What a Builder, Policymaker, Investor, and Citizen Should Watch**\n\n- **Builder:** Track cost reductions, supply chain maturity, and permitting timelines for CCS projects.\n- **Policymaker:** Watch for public sentiment, cost-benefit analyses, and international policy coordination.\n- **Investor:** Monitor cost trends, regulatory incentives, and early mover project performance.\n- **Citizen:** Follow transparency on CCS project impacts, public consultations, and climate accountability.\n\n---\n\n**9. Best Next Questions**\n\n- What are the most promising pathways for rapid cost declines in DAC and BECCS?\n- How fast can CO₂ storage infrastructure be permitted and built at scale?\n- What are the risks of CCS crowding out other mitigation or removal strategies?\n- How can policy frameworks be designed to ensure CCS delivers real, verifiable climate benefits?\n- What social and environmental safeguards are needed for large-scale CCS deployment?\n\n---",
+  "selected": {
+    "selected_at": "2026-06-20T13:37:41.219517+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 6,
+    "selected_question": {
+      "domain": "climate and energy",
+      "question": "Can scalable, economically viable carbon capture and storage technologies remove over 1 gigaton of CO2 annually from the atmosphere before 2035?",
+      "why_it_matters": "If feasible, carbon capture could be crucial in meeting climate targets and shaping energy policies.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "commercial deployments of carbon capture facilities",
+        "cost trends for capture technologies",
+        "government incentives and funding levels"
+      ]
+    },
+    "selected_score": {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 9,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Carbon capture scale is key for climate goals; actionable with measurable deployment and cost data.",
+      "total": 8.54
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 10,
+        "uncertainty": 9,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 6,
+        "rationale": "AGI autonomous goal formation is critical for AI safety and governance; uncertain and novel, with some measurable indicators.",
+        "total": 8.24
+      },
+      {
+        "index": 1,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Decentralizing internet infrastructure impacts global stability and economy; moderately uncertain and actionable.",
+        "total": 7.72
+      },
+      {
+        "index": 2,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 8,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "Pandemic origin and severity is vital for public health; uncertain but with measurable epidemiological data.",
+        "total": 8.02
+      },
+      {
+        "index": 3,
+        "importance": 8,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 6,
+        "rationale": "Digital democracy legitimacy affects governance models; novel and uncertain with observable political developments.",
+        "total": 7.48
+      },
+      {
+        "index": 4,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Automation's impact on jobs is crucial for economic policy; moderately uncertain and actionable.",
+        "total": 7.72
+      },
+      {
+        "index": 5,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Gene editing for disease correction has ethical and health implications; measurable and somewhat novel.",
+        "total": 7.74
+      },
+      {
+        "index": 6,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 9,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Carbon capture scale is key for climate goals; actionable with measurable deployment and cost data.",
+        "total": 8.54
+      },
+      {
+        "index": 7,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "AI synthetic media indistinguishability challenges media trust and law; novel and observable trends.",
+        "total": 7.46
+      }
+    ]
+  }
+}

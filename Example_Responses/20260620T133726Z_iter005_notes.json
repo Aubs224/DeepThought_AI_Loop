@@ -1,0 +1,61 @@
+{
+  "summary": "Achieving over 1 gigaton of annual atmospheric CO₂ removal via scalable, economically viable CCS by 2035 is unlikely without major breakthroughs in technology, policy, or economics. Current CCS capacity is far below this target, with significant challenges in cost, infrastructure, policy, and public acceptance. Most plausible scenarios foresee substantial growth but falling short of 1 Gt/year by 2035 unless transformative changes occur.",
+  "key_predictions": [
+    {
+      "prediction": "By 2027, global DAC/BECCS capacity will reach 5–10 Mt/year, and point-source CCS will grow to 70–100 Mt/year.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "By 2030, atmospheric CO₂ removal via CCS will reach 20–50 Mt/year, with point-source CCS at 150–200 Mt/year if current trends continue.",
+      "time_horizon": "medium",
+      "confidence": 0.75
+    },
+    {
+      "prediction": "By 2035, atmospheric CO₂ removal via CCS will likely be in the 50–300 Mt/year range, well below 1 Gt/year without major breakthroughs or policy shifts.",
+      "time_horizon": "long",
+      "confidence": 0.7
+    }
+  ],
+  "assumptions": [
+    "Cost curves for DAC/BECCS follow learning rates similar to solar/wind (20–30% cost reduction per doubling of capacity).",
+    "Sufficient CO₂ storage sites will be permitted and developed at scale.",
+    "Policy support for CCS will be sustained or increase over time.",
+    "Public opposition will not cause major delays or blockades.",
+    "Competing mitigation or removal technologies will not outpace CCS in cost-effectiveness."
+  ],
+  "uncertainties": [
+    "The pace and magnitude of cost reductions for DAC and BECCS technologies.",
+    "Speed and scale of CO₂ storage infrastructure permitting and deployment.",
+    "Potential policy reversals or insufficient political will.",
+    "Public acceptance and social license for large-scale CCS projects.",
+    "Impact of competing climate mitigation/removal technologies on CCS adoption."
+  ],
+  "signals_to_monitor": [
+    "Major cost breakthroughs reducing DAC/BECCS costs below $100/tCO₂.",
+    "Permitting and operation of gigaton-scale CO₂ storage hubs.",
+    "Annual global public and private investment exceeding $100 billion in CCS/CDR.",
+    "Binding international mandates from bodies like G20 or UN requiring large-scale CCS deployment.",
+    "Widespread public acceptance indicated by polls and smooth permitting processes."
+  ],
+  "next_questions": [
+    "What are the most promising technological pathways for rapid cost declines in DAC and BECCS?",
+    "How quickly can CO₂ storage infrastructure be permitted and constructed at the necessary scale?",
+    "What risks exist that CCS deployment could crowd out other effective mitigation or removal strategies?",
+    "How can policy frameworks be designed to ensure CCS delivers real, verifiable climate benefits?",
+    "What social and environmental safeguards are necessary for responsible large-scale CCS deployment?"
+  ],
+  "extracted_at": "2026-06-20T13:37:59.344189+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "climate and energy",
+    "question": "Can scalable, economically viable carbon capture and storage technologies remove over 1 gigaton of CO2 annually from the atmosphere before 2035?",
+    "why_it_matters": "If feasible, carbon capture could be crucial in meeting climate targets and shaping energy policies.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "commercial deployments of carbon capture facilities",
+      "cost trends for capture technologies",
+      "government incentives and funding levels"
+    ]
+  }
+}

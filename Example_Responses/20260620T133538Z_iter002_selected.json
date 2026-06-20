@@ -1,0 +1,114 @@
+{
+  "selected_at": "2026-06-20T13:35:53.491753+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 6,
+  "selected_question": {
+    "domain": "climate and energy",
+    "question": "Will global net carbon emissions reach net zero before 2050 through current or emerging technologies and policies?",
+    "why_it_matters": "Achieving net zero is critical to limit catastrophic climate impacts and guide investment and policy decisions.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "annual global carbon emission data",
+      "adoption rates of clean energy technologies"
+    ]
+  },
+  "selected_score": {
+    "index": 6,
+    "importance": 10,
+    "uncertainty": 7,
+    "actionability": 8,
+    "novelty": 6,
+    "falsifiability": 8,
+    "rationale": "Net zero emissions critical for climate; uncertainty moderate due to policy and tech factors; highly actionable for policy and investment; less novel but vital; falsifiable by emission data.",
+    "total": 8.0
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "Autonomous AI scientific breakthroughs would revolutionize research; medium uncertainty due to rapid AI progress; actionable for research funding and policy; novel in scale and autonomy; falsifiable by tracking AI scientific outputs.",
+      "total": 7.94
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Practical quantum advantage would disrupt multiple fields; uncertainty moderate due to technical challenges; actionable for infrastructure and security planning; novel technological milestone; falsifiable by demonstration of error-corrected quantum advantage.",
+      "total": 7.58
+    },
+    {
+      "index": 2,
+      "importance": 10,
+      "uncertainty": 6,
+      "actionability": 5,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Nuclear conflict has catastrophic global impact; uncertainty moderate due to geopolitical complexity; limited direct actionability but critical for policy; less novel but highly consequential; falsifiable by occurrence or non-occurrence within timeframe.",
+      "total": 7.14
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "DAO replacing government functions would transform governance; uncertainty moderate given legal and social barriers; actionable for legal and political reforms; novel governance model; falsifiable by legal and functional adoption.",
+      "total": 7.3
+    },
+    {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "AI-driven job loss impacts economy and society; uncertainty moderate due to economic complexity; actionable for policy and labor market interventions; moderately novel at scale; falsifiable by employment data trends.",
+      "total": 7.74
+    },
+    {
+      "index": 5,
+      "importance": 9,
+      "uncertainty": 6,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Gene editing cures would transform healthcare; uncertainty moderate due to clinical and regulatory hurdles; actionable for medical research and healthcare policy; novel therapeutic milestone; falsifiable by clinical outcomes.",
+      "total": 7.54
+    },
+    {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 8,
+      "rationale": "Net zero emissions critical for climate; uncertainty moderate due to policy and tech factors; highly actionable for policy and investment; less novel but vital; falsifiable by emission data.",
+      "total": 8.0
+    },
+    {
+      "index": 7,
+      "importance": 7,
+      "uncertainty": 8,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "VR as primary social medium would reshape culture; uncertainty high due to adoption and tech limits; actionable for media and tech sectors; novel social phenomenon; falsifiable by usage data.",
+      "total": 7.22
+    }
+  ]
+}

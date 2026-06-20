@@ -1,0 +1,122 @@
+{
+  "answered_at": "2026-06-20T13:38:27.607022+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nWhat is the earliest plausible timeframe in which artificial general intelligence (AGI) will achieve reliable human-level autonomous decision-making in high-stakes contexts?\n\nContext:\nDomain: artificial intelligence\nWhy it matters: Knowing this timeline impacts investment, regulation, and safety preparations for transformative AI technologies.\nInitial signals to watch: major AI lab breakthroughs, scaling of training compute, regulatory frameworks, deployment in critical sectors\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nThe earliest plausible timeframe for AGI to achieve reliable, human-level autonomous decision-making in high-stakes contexts is likely between the late 2030s and the 2050s, with significant uncertainty. This projection is constrained by technical, societal, and regulatory factors. Key uncertainties include the scalability of current AI paradigms, the definition of “reliable” and “human-level” in high-stakes domains, and the impact of societal and regulatory responses. Monitoring breakthroughs in reasoning, interpretability, and robust deployment, as well as shifts in global regulatory and investment climates, will be critical for updating this forecast.\n\n---\n\n**2. Why This Question is Hard**\n\n- **Definition Ambiguity:** “Human-level,” “reliable,” and “high-stakes” are context-dependent and contested terms. Human-level in chess differs from human-level in diplomacy or medicine.\n- **Sparse Precedent:** No historical example exists of a technology achieving general intelligence or autonomy at human level.\n- **Complexity of High-Stakes Contexts:** High-stakes decisions often involve ambiguity, incomplete information, ethical reasoning, and social context.\n- **Nonlinear Progress:** AI progress has historically shown discontinuities, making extrapolation risky.\n- **Societal Feedback Loops:** Public reaction, regulation, and deployment can accelerate or decelerate progress unpredictably.\n\n---\n\n**3. Current Forces and Constraints**\n\n- **Forces Accelerating AGI:**\n  - Rapid advances in large-scale models (e.g., GPT-4, Gemini, Claude).\n  - Increasing investment and talent inflow.\n  - Scaling laws demonstrating continued performance improvements with more compute and data.\n  - Early demonstrations of agentic behavior and tool use.\n\n- **Constraints Slowing AGI:**\n  - Lack of robust reasoning, planning, and long-term memory in current models.\n  - Difficulty in aligning AI objectives with human values, especially for open-ended tasks.\n  - Data limitations for high-stakes, real-world situations.\n  - Hardware and energy bottlenecks.\n  - Growing regulatory scrutiny and calls for safety standards.\n\n---\n\n**4. Three to Five Plausible Futures**\n\n**A. Accelerated Breakthrough (Late 2030s)**\n- Major algorithmic innovations (e.g., new architectures or learning paradigms) enable rapid progress.\n- AGI with reliable, human-level decision-making is demonstrated in controlled, high-stakes settings (e.g., logistics, crisis response).\n- Early, limited deployment in critical sectors, under strict oversight.\n\n**B. Gradual Progress (2040s)**\n- Steady improvements in reasoning, interpretability, and robustness.\n- AGI achieves reliable human-level performance in some, but not all, high-stakes domains.\n- Widespread deployment delayed by regulatory caution and societal debate.\n\n**C. Stalled Development (2050s+)**\n- Fundamental technical or alignment challenges prove harder than expected.\n- Progress slows due to hardware, data, or regulatory bottlenecks.\n- Human-level, reliable AGI in high-stakes contexts remains aspirational.\n\n**D. Disruptive Setback Scenario**\n- Early AGI deployment causes a major incident (e.g., catastrophic failure in a critical system).\n- Global regulatory clampdown delays further progress by a decade or more.\n\n---\n\n**5. Key Assumptions**\n\n- Current scaling laws continue to hold, but diminishing returns eventually require new paradigms.\n- “Reliable” means at least as safe and robust as expert human decision-makers, with transparent failure modes.\n- Societal and regulatory responses will be reactive to visible risks, not purely proactive.\n- High-stakes contexts include domains like healthcare, law, finance, and national security.\n\n---\n\n**6. Predictions with Time Horizons**\n\n- **2025-2030:** AGI not yet achieved; narrow AI increasingly automates sub-tasks in high-stakes contexts, but always under human supervision.\n- **2030-2040:** First credible demonstrations of AGI-level performance in constrained, high-stakes settings. Reliability and alignment concerns limit deployment.\n- **2040-2050:** Plausible window for AGI with reliable, human-level autonomous decision-making in multiple high-stakes domains, contingent on overcoming technical and regulatory hurdles.\n- **Post-2050:** If major setbacks or bottlenecks occur, reliable AGI in high-stakes contexts may be delayed further.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n**Accelerating Signals:**\n- Breakthroughs in robust reasoning, planning, and transfer learning.\n- Demonstrated AI systems consistently outperforming humans in complex, high-stakes simulations.\n- Effective, scalable alignment and interpretability solutions.\n- Major governments or corporations openly piloting AGI in critical infrastructure.\n\n**Delaying Signals:**\n- High-profile AI failures or accidents in high-stakes contexts.\n- Regulatory moratoriums on advanced AI research or deployment.\n- Stagnation in scaling laws or hardware progress.\n- Evidence of insurmountable alignment or robustness challenges.\n\n---\n\n**8. What a Builder, Policymaker, Investor, and Citizen Should Watch**\n\n**Builder:**  \n- Research on scalable alignment, interpretability, and robustness.\n- Open benchmarks for high-stakes decision-making.\n- Cross-disciplinary collaborations (AI, ethics, domain experts).\n\n**Policymaker:**  \n- Progress in international AI governance and safety standards.\n- Early deployment pilots and their outcomes.\n- Public sentiment and expert consensus on AGI risks.\n\n**Investor:**  \n- Shifts in regulatory landscape.\n- Companies making credible advances in robust, generalizable AI.\n- Early signs of commercial AGI applications in critical sectors.\n\n**Citizen:**  \n- Media coverage of AI in high-stakes roles.\n- Public consultations or referenda on AI deployment.\n- Transparency from AI companies and regulators.\n\n---\n\n**9. Best Next Questions**\n\n- What technical benchmarks best capture “reliable, human-level” performance in high-stakes contexts?\n- How will society define and enforce “acceptable risk” for AGI in critical systems?\n- What are the most promising approaches for scalable alignment and interpretability?\n- How might geopolitical competition accelerate or constrain AGI deployment?\n- What early warning indicators could signal an impending AGI breakthrough or major setback?\n\n---\n\n**Summary Table: Key Signals and Timeframes**\n\n| Signal                     | Accelerates Timeline | Delays Timeline  | Monitored By      |\n|----------------------------|---------------------|------------------|-------------------|\n| Major reasoning breakthrough| Yes                |                  | Builders, Investors|\n| Regulatory moratorium      |                     | Yes              | Policymakers      |\n| High-profile failure       |                     | Yes              | All               |\n| AGI pilot in critical sector| Yes                |                  | Policymakers, Investors|\n| Stagnation in scaling      |                     | Yes              | Builders          |\n\n**Conclusion:**  \nWhile the late 2030s to 2050s is the earliest plausible window for reliable, human-level AGI in high-stakes contexts, the outcome depends on technical, societal, and regulatory factors that remain deeply uncertain. Continuous, critical monitoring of technical progress and societal response is essential.",
+  "selected": {
+    "selected_at": "2026-06-20T13:38:14.397230+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 0,
+    "selected_question": {
+      "domain": "artificial intelligence",
+      "question": "What is the earliest plausible timeframe in which artificial general intelligence (AGI) will achieve reliable human-level autonomous decision-making in high-stakes contexts?",
+      "why_it_matters": "Knowing this timeline impacts investment, regulation, and safety preparations for transformative AI technologies.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "major AI lab breakthroughs",
+        "scaling of training compute",
+        "regulatory frameworks",
+        "deployment in critical sectors"
+      ]
+    },
+    "selected_score": {
+      "index": 0,
+      "importance": 10,
+      "uncertainty": 9,
+      "actionability": 8,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "AGI timeline is critical for safety and policy; high uncertainty; actionable for regulation and investment; novel due to rapid AI advances; falsifiable by observing deployment.",
+      "total": 8.58
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 10,
+        "uncertainty": 9,
+        "actionability": 8,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "AGI timeline is critical for safety and policy; high uncertainty; actionable for regulation and investment; novel due to rapid AI advances; falsifiable by observing deployment.",
+        "total": 8.58
+      },
+      {
+        "index": 1,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Quantum internet impacts security and geopolitics; technological feasibility uncertain; actionable for R&D and policy; moderately novel; falsifiable by deployment status.",
+        "total": 7.94
+      },
+      {
+        "index": 2,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 6,
+        "falsifiability": 5,
+        "rationale": "Geopolitical stability affects global cooperation; uncertainty moderate; less directly actionable; question is broad and less novel; falsifiable but complex.",
+        "total": 6.86
+      },
+      {
+        "index": 3,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 6,
+        "rationale": "Digital democracy affects governance and trust; uncertainty moderate; actionable for platform design and policy; somewhat novel; falsifiable via polarization metrics.",
+        "total": 7.1
+      },
+      {
+        "index": 4,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 9,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "AI automation impacts labor markets globally; high importance and uncertainty; actionable for economic policy; moderately novel; falsifiable by labor data.",
+        "total": 8.36
+      },
+      {
+        "index": 5,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 8,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Universal vaccine platform critical for health security; uncertainty due to scientific challenges; actionable for funding and research; novel; falsifiable by vaccine development.",
+        "total": 8.1
+      },
+      {
+        "index": 6,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 9,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Net-zero feasibility crucial for climate policy; uncertainty in tech and economics; highly actionable; moderately novel; falsifiable by emission and technology data.",
+        "total": 8.36
+      },
+      {
+        "index": 7,
+        "importance": 7,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "AI-generated media affects culture and economics; moderate importance; uncertainty in adoption rates; actionable for media strategies; novel; falsifiable by market data.",
+        "total": 7.02
+      }
+    ]
+  }
+}

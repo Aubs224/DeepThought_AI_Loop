@@ -1,0 +1,121 @@
+{
+  "answered_at": "2026-06-20T13:36:45.001094+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nIs it feasible for renewable energy sources to provide at least 75% of global energy consumption by 2040 without causing major supply instability?\n\nContext:\nDomain: climate and energy\nWhy it matters: Determines viability of climate mitigation strategies and energy security planning.\nInitial signals to watch: renewable energy capacity growth, grid stability metrics, energy storage technology breakthroughs\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nAchieving at least 75% of global energy from renewables by 2040—while maintaining stable supply—is technically conceivable but highly improbable under current trajectories. The main obstacles are the scale and speed of infrastructure transformation required, the intermittency of key renewable sources (solar, wind), and the lag in storage and grid modernization. While some regions may approach or surpass this threshold, global attainment would require unprecedented policy coordination, investment, and technological breakthroughs in storage, transmission, and demand management. The risk of supply instability rises sharply at high renewable penetrations unless these challenges are met.\n\n---\n\n**2. Why This Question Is Hard**\n\n- **Scale and Timing:** Global primary energy consumption is vast and diverse. Transforming three-quarters of it in less than two decades is historically unprecedented.\n- **Intermittency and Reliability:** Solar and wind, the fastest-growing renewables, are variable. Balancing their output with demand at scale is an unresolved technical and economic challenge.\n- **Infrastructure Inertia:** Energy systems (generation, storage, transmission) are capital-intensive and slow to change, especially in developing economies.\n- **Global Disparities:** Countries vary widely in renewable resources, grid sophistication, and financial capacity.\n- **Uncertain Innovation Pace:** Breakthroughs in storage, grid management, and demand flexibility are possible but unpredictable in timing and impact.\n\n---\n\n**3. Current Forces and Constraints**\n\n**Forces Favoring Rapid Renewable Adoption:**\n- **Cost declines:** Solar and wind are now the cheapest new electricity sources in many regions.\n- **Climate policy:** Increasing national and corporate commitments to decarbonization.\n- **Public support:** Strong in many countries, especially among younger demographics.\n\n**Constraints:**\n- **Storage:** Current battery and other storage technologies are insufficient for multi-day or seasonal balancing at scale.\n- **Grid limitations:** Many grids are not designed for high shares of variable renewables; upgrades are expensive and slow.\n- **Material supply chains:** Key minerals (lithium, cobalt, rare earths) face supply bottlenecks and geopolitical risks.\n- **Dispatchable renewables:** Hydropower and geothermal are geographically limited; bioenergy has land-use and sustainability concerns.\n- **Political and social resistance:** Siting, permitting, and local opposition can delay or block projects.\n\n---\n\n**4. Three to Five Plausible Futures**\n\n**A. Accelerated Transformation (Low Probability)**\n- Massive investments, policy alignment, and rapid tech breakthroughs enable >75% renewables by 2040 with manageable instability.\n- Requires global coordination, rapid grid/storage buildout, and major demand-side flexibility.\n\n**B. Patchwork Progress (Most Likely)**\n- OECD and some emerging economies reach 60-80% renewables in electricity; global average lags at 40-60% due to slower transitions in developing regions and hard-to-abate sectors (heavy industry, aviation).\n- Supply instability is episodic but not systemic in advanced grids; more frequent in lagging regions.\n\n**C. Stalled Transition**\n- Supply chain, political, or technical bottlenecks slow progress; renewables plateau at 40-50% globally.\n- Fossil fuels persist for grid stability and industrial use; climate targets are missed.\n\n**D. Disruptive Instability**\n- Rapid renewable deployment outpaces grid/storage adaptation, causing widespread supply instability (blackouts, curtailment).\n- Backlash leads to renewed investment in fossil or nuclear capacity.\n\n---\n\n**5. Key Assumptions**\n\n- **Continued cost declines** for renewables, storage, and grid tech.\n- **Political will** sustains or increases, even amid economic or geopolitical shocks.\n- **Global cooperation** on tech transfer, financing, and standards.\n- **No major new disruptive tech** (e.g., ultra-cheap, scalable seasonal storage) emerges before 2035.\n\n---\n\n**6. Predictions with Time Horizons**\n\n- **By 2030:** Global renewables share (all energy, not just electricity) likely reaches 25-35%. Grid instability remains localized.\n- **By 2040:** 40-60% global renewable share plausible; >75% possible only in select countries/regions with advanced grids and storage.\n- **Supply stability:** Major instability unlikely in advanced economies with robust grid management; higher risk in rapidly transitioning but under-resourced regions.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n- **Breakthrough in long-duration, low-cost storage** (e.g., flow batteries, hydrogen, thermal storage).\n- **Rapid, affordable grid modernization** (e.g., digitalization, HVDC supergrids).\n- **Global policy alignment** (e.g., carbon pricing, fossil phaseouts, massive green finance).\n- **Material supply chain disruptions** or breakthroughs (e.g., new battery chemistries not reliant on scarce minerals).\n- **Public backlash or major blackouts** linked to renewables.\n\n---\n\n**8. What a Builder, Policymaker, Investor, and Citizen Should Watch**\n\n- **Builder:** Storage cost and performance trends, permitting reforms, grid interconnection standards.\n- **Policymaker:** Grid reliability metrics, renewable integration costs, public sentiment, international cooperation opportunities.\n- **Investor:** Storage and grid tech startups, mineral supply chain resilience, policy risk in key markets.\n- **Citizen:** Local grid reliability, household energy costs, opportunities to participate in demand response or distributed generation.\n\n---\n\n**9. Best Next Questions**\n\n- What are the most promising pathways for affordable, scalable long-duration energy storage?\n- Which regions are most at risk for supply instability during rapid renewable integration?\n- How can demand-side flexibility (e.g., smart loads, EVs) be incentivized to support grid stability?\n- What are the geopolitical implications of mineral dependencies for renewables?\n- How can developing countries leapfrog to high-renewable, stable energy systems?\n\n---",
+  "selected": {
+    "selected_at": "2026-06-20T13:36:35.579274+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 6,
+    "selected_question": {
+      "domain": "climate and energy",
+      "question": "Is it feasible for renewable energy sources to provide at least 75% of global energy consumption by 2040 without causing major supply instability?",
+      "why_it_matters": "Determines viability of climate mitigation strategies and energy security planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "renewable energy capacity growth",
+        "grid stability metrics",
+        "energy storage technology breakthroughs"
+      ]
+    },
+    "selected_score": {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Critical for climate and energy policy; uncertainty in tech and adoption; highly actionable; moderately novel; falsifiable by energy mix data.",
+      "total": 8.38
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 6,
+        "rationale": "Crucial for AI governance and safety; moderately uncertain due to evolving tech and ethics; actionable for policy; novel in balancing autonomy and ethics; somewhat falsifiable through incidents and thresholds.",
+        "total": 7.58
+      },
+      {
+        "index": 1,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Important for internet resilience and freedom; uncertainty from tech and political factors; actionable via infrastructure investment; novel in scale of decentralization; falsifiable by observing infrastructure changes.",
+        "total": 7.28
+      },
+      {
+        "index": 2,
+        "importance": 10,
+        "uncertainty": 9,
+        "actionability": 6,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "Extremely important for global security; high uncertainty due to complex geopolitics; moderate actionability; less novel but critical; falsifiable by occurrence or prevention of conflict.",
+        "total": 7.9
+      },
+      {
+        "index": 3,
+        "importance": 8,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 6,
+        "rationale": "Important for political future; uncertainty in social dynamics and tech adoption; actionable through governance design; novel in scale of digital democracy; falsifiable by social cohesion outcomes.",
+        "total": 7.48
+      },
+      {
+        "index": 4,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Key for economic and social policy; uncertainty in automation impact; actionable via labor policies; moderately novel; falsifiable by unemployment data trends.",
+        "total": 7.76
+      },
+      {
+        "index": 5,
+        "importance": 9,
+        "uncertainty": 9,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Highly important for health and society; high uncertainty in biomedical advances; moderate actionability; novel in potential impact; falsifiable through clinical outcomes.",
+        "total": 7.98
+      },
+      {
+        "index": 6,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Critical for climate and energy policy; uncertainty in tech and adoption; highly actionable; moderately novel; falsifiable by energy mix data.",
+        "total": 8.38
+      },
+      {
+        "index": 7,
+        "importance": 7,
+        "uncertainty": 8,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Relevant for media and culture; uncertainty in AI adoption and societal effects; moderate actionability; novel in media evolution; falsifiable by media consumption metrics.",
+        "total": 7.22
+      }
+    ]
+  }
+}

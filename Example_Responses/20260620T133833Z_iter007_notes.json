@@ -1,0 +1,61 @@
+{
+  "summary": "Automation could displace over 30% of jobs in developed economies by 2040, especially in routine sectors, but new job creation in emerging fields may partially offset losses. Outcomes depend on technological progress, economic factors, policy responses, and societal adaptation, with significant uncertainties around transition speed and scale.",
+  "key_predictions": [
+    {
+      "prediction": "By 2030, 10–20% of current jobs in developed economies will be significantly reshaped or displaced by automation, with new jobs mainly in digital services, healthcare, and green technology.",
+      "time_horizon": "near",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "By 2040, job displacement could reach 20–35%, varying by country and sector; new sectors like AI oversight and climate adaptation will absorb some displaced workers but not all.",
+      "time_horizon": "long",
+      "confidence": 0.6
+    },
+    {
+      "prediction": "For every 10 jobs automated, approximately 6–8 new jobs may be created, though not necessarily for the same workers or locations.",
+      "time_horizon": "medium",
+      "confidence": 0.5
+    }
+  ],
+  "assumptions": [
+    "Continued progress in AI and robotics at or above current rates.",
+    "No major economic shocks that fundamentally alter investment patterns.",
+    "Policy responses will be incremental rather than transformative.",
+    "Education and retraining systems will adapt but with lag and uneven effectiveness.",
+    "Consumer preferences will not shift dramatically against automation."
+  ],
+  "uncertainties": [
+    "Pace and breadth of technological adoption and breakthroughs.",
+    "Scale and speed of new job creation in emerging sectors.",
+    "Effectiveness of policy interventions and retraining programs.",
+    "Societal acceptance and resistance to automation.",
+    "Regional and demographic disparities in displacement and transition."
+  ],
+  "signals_to_monitor": [
+    "Rates of automation investment in various industries.",
+    "Growth in employment within new and emerging sectors.",
+    "Unemployment and underemployment statistics indicating transition success.",
+    "Policy interventions related to retraining, social safety nets, and regulation.",
+    "Public sentiment and consumer attitudes toward automation."
+  ],
+  "next_questions": [
+    "What specific skills and education pathways best prepare workers for emerging sectors?",
+    "How effective are current retraining and safety net programs in facilitating worker transitions?",
+    "Which regulatory approaches best balance innovation with social stability?",
+    "Which regions or demographics are most vulnerable to automation-driven displacement?",
+    "How do consumer attitudes toward automation influence adoption rates and job creation?"
+  ],
+  "extracted_at": "2026-06-20T13:39:06.007782+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "economics and labor",
+    "question": "Will automation displace more than 30% of current jobs in developed economies by 2040, and what new sectors will emerge to offset this?",
+    "why_it_matters": "Understanding automation’s net impact is crucial for education, welfare, and economic policy planning.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "labor market employment trends",
+      "investment patterns in automation vs human labor",
+      "emergence of new economic sectors"
+    ]
+  }
+}

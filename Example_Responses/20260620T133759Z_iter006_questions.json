@@ -1,0 +1,101 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "What is the earliest plausible timeframe in which artificial general intelligence (AGI) will achieve reliable human-level autonomous decision-making in high-stakes contexts?",
+      "why_it_matters": "Knowing this timeline impacts investment, regulation, and safety preparations for transformative AI technologies.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "major AI lab breakthroughs",
+        "scaling of training compute",
+        "regulatory frameworks",
+        "deployment in critical sectors"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Will quantum internet technology become viable for global secure communication within the next 15 years?",
+      "why_it_matters": "This would revolutionize cybersecurity, geopolitics, and data privacy frameworks worldwide.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "quantum repeater development",
+        "pilot quantum networks",
+        "investment in quantum communication startups",
+        "standardization efforts"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Is global geopolitical stability likely to improve or deteriorate over the next decade given current multipolar tensions?",
+      "why_it_matters": "This influences international cooperation, conflict risk management, and global economic forecasts.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "major diplomatic treaties",
+        "military build-ups",
+        "multilateral institution reforms",
+        "regional conflicts"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Can large-scale digital democracy platforms achieve meaningful citizen governance participation without exacerbating polarization within 10 years?",
+      "why_it_matters": "Success or failure here will shape the future of democracy and public trust in institutions.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "adoption rates of digital voting tools",
+        "measures of polarization",
+        "case studies of pilot “digital democracy” projects"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will AI-driven automation displace more than 30% of current human labor across all sectors globally within 20 years?",
+      "why_it_matters": "Answers inform policies on employment, social safety nets, and education system reforms.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "automation adoption rates",
+        "labor market shifts",
+        "sectoral productivity changes",
+        "policy responses"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Can a universal vaccine platform be developed and deployed that covers all major viral families within the next 15 years?",
+      "why_it_matters": "This would drastically reduce pandemic risk and change global health strategies.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "progress in vaccine technology",
+        "clinical trial results",
+        "funding levels",
+        "regulatory approvals"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Is achieving net-zero CO2 emissions globally by 2050 technically and economically feasible without large-scale reliance on fossil carbon removal?",
+      "why_it_matters": "This affects climate policy, energy investments, and global warming mitigation effectiveness.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "renewable energy capacity growth",
+        "carbon capture technology breakthroughs",
+        "economic modeling updates",
+        "national policy commitments"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will AI-generated content become the majority source of entertainment media consumption (video, text, audio) in at least half of global markets within 10 years?",
+      "why_it_matters": "This changes cultural influence, media economics, and intellectual property frameworks.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "market share of AI-generated media",
+        "consumer preference surveys",
+        "advertising revenue shifts",
+        "regulatory approaches to AI content"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:38:07.638706+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

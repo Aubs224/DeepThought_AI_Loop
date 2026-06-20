@@ -1,0 +1,121 @@
+{
+  "answered_at": "2026-06-20T13:40:38.476611+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nWill automation displace more than 30% of current jobs in advanced economies by 2035 without net job creation in new sectors?\n\nContext:\nDomain: economics and labor\nWhy it matters: Guides workforce retraining, social safety net design, and economic policy reforms.\nInitial signals to watch: automation adoption rates, labor market participation trends, emergence of new job categories\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nThe prospect of automation displacing over 30% of current jobs in advanced economies by 2035, *without* net job creation in new sectors, is a high-stakes scenario with profound implications. While automation’s technical potential is significant, historical precedent, economic adaptation, and the emergence of new job categories suggest that outright, lasting net job loss at this scale is unlikely—but not impossible. The balance will hinge on the pace of technological adoption, policy responses, the adaptability of labor markets, and the unforeseen emergence (or lack thereof) of new industries. Current evidence points to substantial job transformation and displacement, but with considerable uncertainty regarding net outcomes.\n\n---\n\n**2. Why This Question Is Hard**\n\n- **Complexity of Job Creation:** New sectors and roles often emerge unpredictably, making it difficult to forecast net employment effects.\n- **Lag Between Displacement and Creation:** Timing mismatches can cause periods of high displacement even if new jobs eventually arise.\n- **Measurement Challenges:** Defining “current jobs” and “new sectors” is nontrivial, especially as tasks within jobs evolve.\n- **Policy and Social Response:** Outcomes depend heavily on government, corporate, and societal actions, which are themselves uncertain.\n- **Technological Uncertainty:** The pace, scope, and diffusion of automation technologies are not fully predictable.\n\n---\n\n**3. Current Forces and Constraints**\n\n**Forces Accelerating Displacement:**\n- Rapid advances in AI, robotics, and process automation.\n- Cost pressures and productivity incentives for firms.\n- Demographic changes (aging populations) increasing automation’s appeal.\n\n**Constraints Limiting Displacement:**\n- Technical limitations for automating complex, non-routine, or social tasks.\n- Regulatory, ethical, and social resistance to job-replacing automation.\n- Economic feedback loops: loss of consumer purchasing power can dampen automation’s business case.\n\n**Offsetting Forces (Job Creation):**\n- Historical evidence: past technological revolutions created new sectors (e.g., IT, healthcare, green energy).\n- Increased demand for human-centric roles (care, creativity, complex problem-solving).\n- Expansion of the digital and green economies.\n\n---\n\n**4. Plausible Futures**\n\n**A. High Displacement, Low Creation (Worst Case)**\n- >30% of current jobs automated away by 2035.\n- New sectors fail to absorb displaced workers; mass unemployment or underemployment.\n- Social unrest, pressure on safety nets, political upheaval.\n\n**B. High Displacement, High Creation (Transformative Equilibrium)**\n- >30% of jobs displaced, but new sectors (AI maintenance, green tech, care economy, etc.) absorb most displaced workers.\n- Major retraining and economic restructuring required.\n- Net employment stable or growing, but with significant skills mismatch.\n\n**C. Moderate Displacement, Moderate Creation (Status Quo Evolution)**\n- 10–20% of jobs automated, with most workers transitioning within or across sectors.\n- Labor market adapts, but some groups left behind.\n- Incremental policy adaptation suffices.\n\n**D. Low Displacement, Low Creation (Automation Plateau)**\n- Technical, economic, or regulatory barriers slow automation.\n- Little net change in job numbers; productivity gains limited.\n- “Robot revolution” fails to materialize at scale.\n\n---\n\n**5. Key Assumptions**\n\n- **Automation adoption will be cost-effective and technically feasible for >30% of current jobs by 2035.**\n- **Labor markets and policy systems will not adapt fast enough to facilitate large-scale retraining or job creation.**\n- **New sectors will not emerge at sufficient scale to offset job losses.**\n- **Social and political resistance will not significantly slow automation.**\n- **Macroeconomic growth will not generate enough demand for new forms of labor.**\n\nEach assumption is contestable and subject to change.\n\n---\n\n**6. Predictions With Time Horizons**\n\n- **2025–2030:** Significant automation in manufacturing, logistics, retail, and some services. Job displacement in the range of 5–15% in affected sectors; new job creation begins but may lag.\n- **2030–2035:** Acceleration of automation into white-collar and knowledge work. Displacement could reach 20–25% in some economies, but large-scale net job loss (>30%) without offsetting creation is unlikely unless new sector growth stalls.\n- **Beyond 2035:** If new sectors do not emerge, risk of >30% net job loss increases. However, precedent and current signals suggest adaptation and new job creation will likely prevent this outcome.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n- **Rapid, sustained increases in productivity without corresponding wage or employment growth.**\n- **Stagnation in the emergence of new job categories or sectors, even as automation adoption accelerates.**\n- **Widespread reports of persistent, high structural unemployment across diverse skill levels.**\n- **Major policy failures or political resistance to labor market adaptation (e.g., retraining, mobility support).**\n- **Breakthroughs in general-purpose AI or robotics that dramatically expand automatable tasks.**\n\n---\n\n**8. What a Builder, Policymaker, Investor, and Citizen Should Watch**\n\n- **Builder (Entrepreneur/Technologist):** Monitor which tasks remain resistant to automation; opportunities in human-in-the-loop systems, retraining platforms, and augmentation tech.\n- **Policymaker:** Track displacement rates by sector, effectiveness of retraining programs, and early signals of new sector growth. Prepare adaptive safety nets and labor mobility policies.\n- **Investor:** Watch for emerging sectors with high job-creation potential (AI services, green energy, care economy). Be wary of overexposure to sectors at high risk of automation with low barriers to entry.\n- **Citizen:** Stay informed about which skills are becoming obsolete or newly valuable. Engage in lifelong learning and advocacy for adaptive policy.\n\n---\n\n**9. Best Next Questions**\n\n- What types of new sectors and job categories are most likely to emerge as automation advances?\n- How effective are current workforce retraining and transition programs in advanced economies?\n- What policy interventions most successfully facilitate labor market adaptation to automation?\n- How quickly can advanced economies scale new forms of employment compared to the pace of displacement?\n- What are the distributional effects (by age, education, region) of automation-driven job displacement?\n- How might social attitudes or political responses slow or accelerate automation adoption?\n\n---\n\n**Summary:**  \nThe risk of >30% net job loss by 2035 in advanced economies due to automation, without compensating job creation, is not the most likely outcome given current evidence—but it remains plausible under certain conditions. Close monitoring of automation adoption, sectoral job creation, and policy adaptation is critical. The future will be shaped as much by societal and policy choices as by technology itself.",
+  "selected": {
+    "selected_at": "2026-06-20T13:40:29.567984+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 4,
+    "selected_question": {
+      "domain": "economics and labor",
+      "question": "Will automation displace more than 30% of current jobs in advanced economies by 2035 without net job creation in new sectors?",
+      "why_it_matters": "Guides workforce retraining, social safety net design, and economic policy reforms.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "automation adoption rates",
+        "labor market participation trends",
+        "emergence of new job categories"
+      ]
+    },
+    "selected_score": {
+      "index": 4,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Job displacement affects economies and social policy; uncertainty high; actionable for workforce planning; question is quantifiable and time-bound.",
+      "total": 8.38
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Human-level AGI would transform society; timeline is uncertain; monitoring AI progress can guide policy; question is specific and testable within timeframe.",
+        "total": 8.22
+      },
+      {
+        "index": 1,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Decentralized internet impacts data control and security; adoption trends are uncertain; actionable for policy and tech development; question is measurable by 2030.",
+        "total": 7.4
+      },
+      {
+        "index": 2,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 5,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "Geopolitical shifts affect global stability; outcomes uncertain; less directly actionable but important for strategy; question is definable and testable.",
+        "total": 7.06
+      },
+      {
+        "index": 3,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Automated citizen participation could transform governance; feasibility uncertain; actionable for democratic innovation; measurable by 2030.",
+        "total": 7.46
+      },
+      {
+        "index": 4,
+        "importance": 10,
+        "uncertainty": 8,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Job displacement affects economies and social policy; uncertainty high; actionable for workforce planning; question is quantifiable and time-bound.",
+        "total": 8.38
+      },
+      {
+        "index": 5,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Pan-coronavirus vaccine critical for health security; scientific uncertainty remains; actionable for funding and research; testable by 2030.",
+        "total": 7.9
+      },
+      {
+        "index": 6,
+        "importance": 10,
+        "uncertainty": 7,
+        "actionability": 9,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "Net-zero emissions vital for climate; feasibility uncertain; highly actionable for policy; measurable progress by 2050.",
+        "total": 7.98
+      },
+      {
+        "index": 7,
+        "importance": 7,
+        "uncertainty": 8,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Immersive media could reshape culture; adoption uncertain; actionable for media industry; measurable by 2040.",
+        "total": 7.22
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "summary": "Automation could displace over 30% of jobs in advanced economies by 2035 without net job creation, but historical trends and adaptive responses make this outcome unlikely though plausible. The balance depends on technology adoption pace, policy effectiveness, labor market adaptability, and emergence of new sectors. Significant job transformation and displacement are expected, with uncertainty about net employment effects.",
+  "key_predictions": [
+    {
+      "prediction": "By 2025–2030, 5–15% job displacement in manufacturing, logistics, retail, and some services, with new job creation beginning but lagging.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "By 2030–2035, automation accelerates into white-collar and knowledge work, causing 20–25% displacement in some economies; large-scale net job loss (>30%) unlikely unless new sector growth stalls.",
+      "time_horizon": "medium",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "Beyond 2035, risk of >30% net job loss increases if new sectors fail to emerge, but adaptation and job creation likely to prevent this.",
+      "time_horizon": "long",
+      "confidence": 0.5
+    }
+  ],
+  "assumptions": [
+    "Automation adoption will be cost-effective and technically feasible for over 30% of current jobs by 2035.",
+    "Labor markets and policy systems will not adapt fast enough to enable large-scale retraining or job creation.",
+    "New sectors will not emerge at sufficient scale to offset job losses.",
+    "Social and political resistance will not significantly slow automation adoption.",
+    "Macroeconomic growth will not generate enough demand for new forms of labor."
+  ],
+  "uncertainties": [
+    "The pace and scope of technological adoption and diffusion.",
+    "Effectiveness and speed of labor market and policy adaptation.",
+    "Emergence and scale of new job sectors and categories.",
+    "Social, political, and regulatory responses to automation.",
+    "Measurement challenges in defining displaced jobs and new sectors."
+  ],
+  "signals_to_monitor": [
+    "Rapid, sustained productivity increases without corresponding wage or employment growth.",
+    "Stagnation in emergence of new job categories or sectors despite automation growth.",
+    "Persistent, high structural unemployment across diverse skill levels.",
+    "Major policy failures or political resistance to labor market adaptation measures.",
+    "Breakthroughs in general-purpose AI or robotics expanding automatable tasks."
+  ],
+  "next_questions": [
+    "What types of new sectors and job categories are most likely to emerge as automation advances?",
+    "How effective are current workforce retraining and transition programs in advanced economies?",
+    "What policy interventions most successfully facilitate labor market adaptation to automation?",
+    "How quickly can advanced economies scale new forms of employment compared to the pace of displacement?",
+    "What are the distributional effects (by age, education, region) of automation-driven job displacement?",
+    "How might social attitudes or political responses slow or accelerate automation adoption?"
+  ],
+  "extracted_at": "2026-06-20T13:40:46.053451+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "economics and labor",
+    "question": "Will automation displace more than 30% of current jobs in advanced economies by 2035 without net job creation in new sectors?",
+    "why_it_matters": "Guides workforce retraining, social safety net design, and economic policy reforms.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "automation adoption rates",
+      "labor market participation trends",
+      "emergence of new job categories"
+    ]
+  }
+}

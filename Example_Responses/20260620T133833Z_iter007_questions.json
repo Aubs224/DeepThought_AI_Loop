@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "Will large-scale general-purpose AI systems exhibit emergent consciousness or self-awareness within the next decade?",
+      "why_it_matters": "Demonstrated AI consciousness would fundamentally alter ethical frameworks, regulatory approaches, and deployment strategies.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "published research showing self-referential AI behavior",
+        "independent expert assessments of AI sentience",
+        "regulatory debates on AI rights"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Can quantum computing achieve reliable, large-scale error correction enabling practical universal quantum advantage by 2030?",
+      "why_it_matters": "A functional universal quantum computer would revolutionize encryption, simulation, and complex optimization tasks.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "demonstrations of scalable error-corrected qubits",
+        "industry investments in quantum infrastructure",
+        "reports of quantum algorithms outperforming classical analogues"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Will global geopolitical power shift decisively to a coalition of emerging economies within the next 15 years?",
+      "why_it_matters": "Shifts in geopolitical power affect global governance, trade policies, and conflict dynamics.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "economic growth metrics of emerging economies",
+        "military modernization programs",
+        "formation of new international alliances"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Is it feasible to implement global digital identity systems respecting privacy and sovereignty by 2035?",
+      "why_it_matters": "Global digital IDs could transform access to services but also raise surveillance and sovereignty risks.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "pilot projects of digital ID systems",
+        "international treaties on data privacy",
+        "public acceptance and protests"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will automation displace more than 30% of current jobs in developed economies by 2040, and what new sectors will emerge to offset this?",
+      "why_it_matters": "Understanding automation’s net impact is crucial for education, welfare, and economic policy planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "labor market employment trends",
+        "investment patterns in automation vs human labor",
+        "emergence of new economic sectors"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Can we develop broadly effective, low-cost vaccines for rapidly mutating viruses like influenza within 10 years?",
+      "why_it_matters": "Such vaccines would drastically reduce pandemic risks and healthcare burdens worldwide.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "clinical trial results of universal vaccines",
+        "funding increases",
+        "regulatory approvals"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Will direct air capture technologies achieve cost parity with fossil fuels as carbon capture solutions by 2030?",
+      "why_it_matters": "Affordable carbon capture at scale is critical for meeting global net-zero targets and climate stabilization.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "cost reduction trends in DAC projects",
+        "government subsidies and mandates",
+        "commercial deployment scales"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will decentralized social media platforms overtake centralized platforms in active users and influence by 2030?",
+      "why_it_matters": "Decentralization could shift control over information, affecting censorship, political polarization, and free expression.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "user growth statistics",
+        "development of decentralized protocols",
+        "regulatory pressures on centralized platforms"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:38:40.612014+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

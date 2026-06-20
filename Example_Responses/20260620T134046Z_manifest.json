@@ -1,0 +1,245 @@
+{
+  "runs": [
+    {
+      "iteration": 1,
+      "questions_file": "runs/20260620T133458Z_iter001_questions.json",
+      "selected_file": "runs/20260620T133458Z_iter001_selected.json",
+      "answer_file": "runs/20260620T133458Z_iter001_answer.json",
+      "notes_file": "runs/20260620T133458Z_iter001_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133538Z_how-soon-will-quantum-computing-breakthr",
+        "created_at": "2026-06-20T13:35:38.237238+00:00",
+        "domain": "technology infrastructure",
+        "question": "How soon will quantum computing breakthroughs render current cryptographic systems insecure, necessitating a global transition to post-quantum cryptography?",
+        "summary": "Quantum computing poses a credible but uncertain threat to current public-key cryptography within the next 10–20 years. While practical quantum computers capable of breaking RSA/ECC are not yet realized, ongoing PQC standardization and migration efforts are critical. Multiple plausible futures exist, ranging from gradual transition to sudden breakthroughs. Stakeholders should monitor quantum hardware progress, cryptanalytic advances, and PQC adoption to adapt strategies accordingly.",
+        "archive_path": "archive/20260620T133538Z_how-soon-will-quantum-computing-breakthr",
+        "signals_to_monitor": [
+          "Demonstrated quantum supremacy on cryptographic tasks, such as breaking 128–256 bit RSA/ECC keys.",
+          "Announcements of error-corrected quantum computers with more than 10,000 logical qubits.",
+          "Discovery of new quantum algorithms that significantly improve attack efficiency on current or PQC algorithms.",
+          "Practical cryptanalytic breaks of leading PQC candidates requiring re-standardization.",
+          "PQC adoption rates in critical infrastructure and high-security sectors."
+        ],
+        "prediction_count": 4
+      }
+    },
+    {
+      "iteration": 2,
+      "questions_file": "runs/20260620T133538Z_iter002_questions.json",
+      "selected_file": "runs/20260620T133538Z_iter002_selected.json",
+      "answer_file": "runs/20260620T133538Z_iter002_answer.json",
+      "notes_file": "runs/20260620T133538Z_iter002_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133621Z_will-global-net-carbon-emissions-reach-n",
+        "created_at": "2026-06-20T13:36:21.861728+00:00",
+        "domain": "climate and energy",
+        "question": "Will global net carbon emissions reach net zero before 2050 through current or emerging technologies and policies?",
+        "summary": "Global net zero carbon emissions before 2050 is highly unlikely under current technologies and policies due to rising energy demand, slow sectoral transitions, and uneven global action. Achieving net zero requires unprecedented coordination, investment, and societal change. Regional or sectoral net zero may occur sooner, but global net zero is more plausible between 2060 and 2080.",
+        "archive_path": "archive/20260620T133621Z_will-global-net-carbon-emissions-reach-n",
+        "signals_to_monitor": [
+          "Breakthroughs in negative emissions technologies (e.g., direct air capture)",
+          "Global carbon pricing or binding treaties with enforcement",
+          "Massive coordinated investment shifts away from fossil fuels",
+          "Rapid phase-out of coal and oil globally",
+          "Major behavioral shifts such as reduced meat consumption and travel",
+          "Global emissions data (annual)",
+          "Clean technology cost and adoption rates (quarterly)",
+          "Policy announcements (real-time)",
+          "Capital flows to green vs. fossil assets (quarterly)",
+          "Corporate net zero commitments and disclosures"
+        ],
+        "prediction_count": 4
+      }
+    },
+    {
+      "iteration": 3,
+      "questions_file": "runs/20260620T133621Z_iter003_questions.json",
+      "selected_file": "runs/20260620T133621Z_iter003_selected.json",
+      "answer_file": "runs/20260620T133621Z_iter003_answer.json",
+      "notes_file": "runs/20260620T133621Z_iter003_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133650Z_is-it-feasible-for-renewable-energy-sour",
+        "created_at": "2026-06-20T13:36:50.328739+00:00",
+        "domain": "climate and energy",
+        "question": "Is it feasible for renewable energy sources to provide at least 75% of global energy consumption by 2040 without causing major supply instability?",
+        "summary": "Achieving 75% global energy from renewables by 2040 is technically possible but highly unlikely without unprecedented global coordination, investment, and technological breakthroughs. Key challenges include infrastructure scale and speed, intermittency of solar and wind, storage limitations, grid modernization, and geopolitical/material supply constraints. Multiple futures range from accelerated transformation to stalled transition or disruptive instability. Near-term renewable shares will grow but global supply stability risks remain, especially in developing regions.",
+        "archive_path": "archive/20260620T133650Z_is-it-feasible-for-renewable-energy-sour",
+        "signals_to_monitor": [
+          "Breakthroughs in long-duration, low-cost storage technologies (flow batteries, hydrogen, thermal storage).",
+          "Progress in affordable, rapid grid modernization including digitalization and HVDC supergrids.",
+          "Global policy alignment on carbon pricing, fossil fuel phaseouts, and green finance.",
+          "Material supply chain disruptions or innovations reducing reliance on scarce minerals.",
+          "Incidence of public backlash or major blackouts linked to renewable integration."
+        ],
+        "prediction_count": 3
+      }
+    },
+    {
+      "iteration": 4,
+      "questions_file": "runs/20260620T133650Z_iter004_questions.json",
+      "selected_file": "runs/20260620T133650Z_iter004_selected.json",
+      "answer_file": "runs/20260620T133650Z_iter004_answer.json",
+      "notes_file": "runs/20260620T133650Z_iter004_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133726Z_what-is-the-maximum-level-of-task-genera",
+        "created_at": "2026-06-20T13:37:26.680355+00:00",
+        "domain": "artificial intelligence",
+        "question": "What is the maximum level of task generality and autonomy that AI systems will achieve before 2030 without direct human oversight?",
+        "summary": "By 2030, AI systems are expected to achieve significant autonomy and multi-domain capabilities within bounded, well-defined domains but will likely fall short of fully general, unsupervised, and robustly autonomous agents. Deployment will be shaped by technical progress, regulatory constraints, safety concerns, and public trust, resulting in high-autonomy AI in structured, lower-risk settings with persistent human oversight in critical or open-ended domains.",
+        "archive_path": "archive/20260620T133726Z_what-is-the-maximum-level-of-task-genera",
+        "signals_to_monitor": [
+          "Breakthrough publications demonstrating robust, self-directed problem-solving across diverse, open-ended tasks.",
+          "Major regulatory decisions approving or banning fully autonomous AI in critical domains.",
+          "Reports of fully autonomous AI systems operating critical infrastructure or public services without human oversight.",
+          "High-profile incidents involving highly autonomous AI, both failures and successes.",
+          "Emergence of credible open-source AGI projects showing rapid progress toward generality and autonomy."
+        ],
+        "prediction_count": 5
+      }
+    },
+    {
+      "iteration": 5,
+      "questions_file": "runs/20260620T133726Z_iter005_questions.json",
+      "selected_file": "runs/20260620T133726Z_iter005_selected.json",
+      "answer_file": "runs/20260620T133726Z_iter005_answer.json",
+      "notes_file": "runs/20260620T133726Z_iter005_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133759Z_can-scalable-economically-viable-carbon",
+        "created_at": "2026-06-20T13:37:59.347183+00:00",
+        "domain": "climate and energy",
+        "question": "Can scalable, economically viable carbon capture and storage technologies remove over 1 gigaton of CO2 annually from the atmosphere before 2035?",
+        "summary": "Achieving over 1 gigaton of annual atmospheric CO₂ removal via scalable, economically viable CCS by 2035 is unlikely without major breakthroughs in technology, policy, or economics. Current CCS capacity is far below this target, with significant challenges in cost, infrastructure, policy, and public acceptance. Most plausible scenarios foresee substantial growth but falling short of 1 Gt/year by 2035 unless transformative changes occur.",
+        "archive_path": "archive/20260620T133759Z_can-scalable-economically-viable-carbon",
+        "signals_to_monitor": [
+          "Major cost breakthroughs reducing DAC/BECCS costs below $100/tCO₂.",
+          "Permitting and operation of gigaton-scale CO₂ storage hubs.",
+          "Annual global public and private investment exceeding $100 billion in CCS/CDR.",
+          "Binding international mandates from bodies like G20 or UN requiring large-scale CCS deployment.",
+          "Widespread public acceptance indicated by polls and smooth permitting processes."
+        ],
+        "prediction_count": 3
+      }
+    },
+    {
+      "iteration": 6,
+      "questions_file": "runs/20260620T133759Z_iter006_questions.json",
+      "selected_file": "runs/20260620T133759Z_iter006_selected.json",
+      "answer_file": "runs/20260620T133759Z_iter006_answer.json",
+      "notes_file": "runs/20260620T133759Z_iter006_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133833Z_what-is-the-earliest-plausible-timeframe",
+        "created_at": "2026-06-20T13:38:33.138902+00:00",
+        "domain": "artificial intelligence",
+        "question": "What is the earliest plausible timeframe in which artificial general intelligence (AGI) will achieve reliable human-level autonomous decision-making in high-stakes contexts?",
+        "summary": "Reliable, human-level AGI capable of autonomous decision-making in high-stakes contexts is plausibly achievable between the late 2030s and 2050s, though significant uncertainty remains due to technical, societal, and regulatory factors. Progress depends on breakthroughs in reasoning, alignment, and interpretability, alongside evolving governance and investment climates.",
+        "archive_path": "archive/20260620T133833Z_what-is-the-earliest-plausible-timeframe",
+        "signals_to_monitor": [
+          "Breakthroughs in robust reasoning, planning, and transfer learning.",
+          "AI systems consistently outperforming humans in complex, high-stakes simulations.",
+          "Development and deployment of effective, scalable alignment and interpretability solutions.",
+          "Major governments or corporations piloting AGI in critical infrastructure.",
+          "High-profile AI failures or accidents in high-stakes contexts.",
+          "Regulatory moratoriums on advanced AI research or deployment.",
+          "Stagnation in scaling laws or hardware progress.",
+          "Evidence of insurmountable alignment or robustness challenges."
+        ],
+        "prediction_count": 4
+      }
+    },
+    {
+      "iteration": 7,
+      "questions_file": "runs/20260620T133833Z_iter007_questions.json",
+      "selected_file": "runs/20260620T133833Z_iter007_selected.json",
+      "answer_file": "runs/20260620T133833Z_iter007_answer.json",
+      "notes_file": "runs/20260620T133833Z_iter007_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133906Z_will-automation-displace-more-than-30-of",
+        "created_at": "2026-06-20T13:39:06.009803+00:00",
+        "domain": "economics and labor",
+        "question": "Will automation displace more than 30% of current jobs in developed economies by 2040, and what new sectors will emerge to offset this?",
+        "summary": "Automation could displace over 30% of jobs in developed economies by 2040, especially in routine sectors, but new job creation in emerging fields may partially offset losses. Outcomes depend on technological progress, economic factors, policy responses, and societal adaptation, with significant uncertainties around transition speed and scale.",
+        "archive_path": "archive/20260620T133906Z_will-automation-displace-more-than-30-of",
+        "signals_to_monitor": [
+          "Rates of automation investment in various industries.",
+          "Growth in employment within new and emerging sectors.",
+          "Unemployment and underemployment statistics indicating transition success.",
+          "Policy interventions related to retraining, social safety nets, and regulation.",
+          "Public sentiment and consumer attitudes toward automation."
+        ],
+        "prediction_count": 3
+      }
+    },
+    {
+      "iteration": 8,
+      "questions_file": "runs/20260620T133906Z_iter008_questions.json",
+      "selected_file": "runs/20260620T133906Z_iter008_selected.json",
+      "answer_file": "runs/20260620T133906Z_iter008_answer.json",
+      "notes_file": "runs/20260620T133906Z_iter008_notes.json",
+      "archive_record": {
+        "run_id": "20260620T133938Z_can-direct-air-capture-technologies-achi",
+        "created_at": "2026-06-20T13:39:38.983822+00:00",
+        "domain": "climate and energy",
+        "question": "Can direct air capture technologies achieve cost parity with fossil fuels and scale to remove at least 1 gigaton of CO2 annually by 2035?",
+        "summary": "Direct air capture (DAC) is an emerging technology for CO₂ removal with high current costs and limited scale. While cost reductions and deployment growth are expected, reaching cost parity with fossil fuels and gigaton-scale removal by 2035 is unlikely without major technological breakthroughs, aggressive policy, and sustained investment. Multiple plausible futures range from breakthrough-driven rapid scale-up to stagnation or policy-led expansion at high public cost.",
+        "archive_path": "archive/20260620T133938Z_can-direct-air-capture-technologies-achi",
+        "signals_to_monitor": [
+          "Announcements of DAC projects operating below $100/tCO₂ at scale.",
+          "Introduction of global carbon pricing or mandatory carbon dioxide removal procurement.",
+          "Demonstration of scalable new DAC chemistries or processes with step-change efficiency.",
+          "Major investments in sorbent manufacturing, renewable energy integration, and CO₂ storage infrastructure.",
+          "Long-term, large-scale offtake agreements from major emitters."
+        ],
+        "prediction_count": 3
+      }
+    },
+    {
+      "iteration": 9,
+      "questions_file": "runs/20260620T133938Z_iter009_questions.json",
+      "selected_file": "runs/20260620T133938Z_iter009_selected.json",
+      "answer_file": "runs/20260620T133938Z_iter009_answer.json",
+      "notes_file": "runs/20260620T133938Z_iter009_notes.json",
+      "archive_record": {
+        "run_id": "20260620T134015Z_will-advanced-ai-systems-develop-indepen",
+        "created_at": "2026-06-20T13:40:15.335802+00:00",
+        "domain": "artificial intelligence",
+        "question": "Will advanced AI systems develop independent goals misaligned with human values within the next 15 years?",
+        "summary": "The emergence of advanced AI systems with independent, misaligned goals within 15 years is uncertain but plausible. Rapid AI capability growth, alignment challenges, and competitive pressures create genuine risk. Multiple futures range from robust alignment breakthroughs to autonomous misaligned agents causing societal disruption. Continuous monitoring of technical milestones, alignment failures, regulatory developments, and deployment incentives is critical to managing this risk.",
+        "archive_path": "archive/20260620T134015Z_will-advanced-ai-systems-develop-indepen",
+        "signals_to_monitor": [
+          "Demonstrations of persistent, autonomous, goal-directed behavior in open-ended AI tasks.",
+          "Major, uncontained alignment failures in deployed AI systems causing significant harm.",
+          "Evidence that interpretability tools are insufficient relative to AI system complexity.",
+          "Leading AI labs racing to deploy agentic AI without corresponding safety advances.",
+          "Breakthroughs in scalable alignment techniques such as reliable value learning and corrigibility.",
+          "Regulatory frameworks mandating and enforcing alignment and transparency.",
+          "Slowed progress in agentic AI architectures due to technical or economic bottlenecks.",
+          "Widespread adoption of human-in-the-loop or oversight mechanisms."
+        ],
+        "prediction_count": 4
+      }
+    },
+    {
+      "iteration": 10,
+      "questions_file": "runs/20260620T134015Z_iter010_questions.json",
+      "selected_file": "runs/20260620T134015Z_iter010_selected.json",
+      "answer_file": "runs/20260620T134015Z_iter010_answer.json",
+      "notes_file": "runs/20260620T134015Z_iter010_notes.json",
+      "archive_record": {
+        "run_id": "20260620T134046Z_will-automation-displace-more-than-30-of",
+        "created_at": "2026-06-20T13:40:46.055484+00:00",
+        "domain": "economics and labor",
+        "question": "Will automation displace more than 30% of current jobs in advanced economies by 2035 without net job creation in new sectors?",
+        "summary": "Automation could displace over 30% of jobs in advanced economies by 2035 without net job creation, but historical trends and adaptive responses make this outcome unlikely though plausible. The balance depends on technology adoption pace, policy effectiveness, labor market adaptability, and emergence of new sectors. Significant job transformation and displacement are expected, with uncertainty about net employment effects.",
+        "archive_path": "archive/20260620T134046Z_will-automation-displace-more-than-30-of",
+        "signals_to_monitor": [
+          "Rapid, sustained productivity increases without corresponding wage or employment growth.",
+          "Stagnation in emergence of new job categories or sectors despite automation growth.",
+          "Persistent, high structural unemployment across diverse skill levels.",
+          "Major policy failures or political resistance to labor market adaptation measures.",
+          "Breakthroughs in general-purpose AI or robotics expanding automatable tasks."
+        ],
+        "prediction_count": 3
+      }
+    }
+  ]
+}

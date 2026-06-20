@@ -1,0 +1,61 @@
+{
+  "summary": "Direct air capture (DAC) is an emerging technology for CO₂ removal with high current costs and limited scale. While cost reductions and deployment growth are expected, reaching cost parity with fossil fuels and gigaton-scale removal by 2035 is unlikely without major technological breakthroughs, aggressive policy, and sustained investment. Multiple plausible futures range from breakthrough-driven rapid scale-up to stagnation or policy-led expansion at high public cost.",
+  "key_predictions": [
+    {
+      "prediction": "By 2025, DAC costs remain above $400/tCO₂ with global capacity under 0.1 Mt/year, dominated by demonstration projects.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "By 2030, DAC costs fall to $200–$400/tCO₂ for leading projects with capacity reaching 5–20 Mt/year and early commercial markets emerging.",
+      "time_horizon": "medium",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "By 2035, DAC costs reach $150–$300/tCO₂ with global capacity between 50–200 Mt/year under optimistic scenarios; gigaton-scale removal and cost parity with fossil fuels remain unlikely without massive policy intervention or breakthroughs.",
+      "time_horizon": "long",
+      "confidence": 0.6
+    }
+  ],
+  "assumptions": [
+    "DAC can achieve 10–20% cost reductions per doubling of capacity, similar to solar PV or batteries.",
+    "Policy support (subsidies, tax credits, procurement) continues or increases.",
+    "A robust market for high-quality carbon removals emerges.",
+    "No unforeseen technological breakthroughs or major setbacks occur.",
+    "No disruptive advances in alternative negative emissions technologies occur."
+  ],
+  "uncertainties": [
+    "Future cost trajectories of DAC technologies and materials.",
+    "Stability and scale of policy support globally.",
+    "Supply chain capacity for sorbents, equipment, renewable energy, and CO₂ storage.",
+    "Market demand for high-cost CO₂ removals.",
+    "Potential breakthroughs in DAC or competing negative emissions technologies."
+  ],
+  "signals_to_monitor": [
+    "Announcements of DAC projects operating below $100/tCO₂ at scale.",
+    "Introduction of global carbon pricing or mandatory carbon dioxide removal procurement.",
+    "Demonstration of scalable new DAC chemistries or processes with step-change efficiency.",
+    "Major investments in sorbent manufacturing, renewable energy integration, and CO₂ storage infrastructure.",
+    "Long-term, large-scale offtake agreements from major emitters."
+  ],
+  "next_questions": [
+    "What are the most promising pathways for radical DAC cost reduction?",
+    "How can policy frameworks best support early deployment and learning-by-doing?",
+    "What are the environmental and social impacts of DAC at scale?",
+    "How does DAC compare to other negative emissions technologies in terms of scalability, permanence, and cost?",
+    "What mechanisms can ensure the integrity and additionality of DAC-based CO₂ removals?"
+  ],
+  "extracted_at": "2026-06-20T13:39:38.981582+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "climate and energy",
+    "question": "Can direct air capture technologies achieve cost parity with fossil fuels and scale to remove at least 1 gigaton of CO2 annually by 2035?",
+    "why_it_matters": "This is critical for meeting climate goals and enabling negative emissions strategies.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "cost reduction curves",
+      "deployment scale announcements",
+      "government subsidies or mandates"
+    ]
+  }
+}

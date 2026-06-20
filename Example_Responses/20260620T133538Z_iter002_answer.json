@@ -1,0 +1,120 @@
+{
+  "answered_at": "2026-06-20T13:36:05.063967+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nWill global net carbon emissions reach net zero before 2050 through current or emerging technologies and policies?\n\nContext:\nDomain: climate and energy\nWhy it matters: Achieving net zero is critical to limit catastrophic climate impacts and guide investment and policy decisions.\nInitial signals to watch: annual global carbon emission data, adoption rates of clean energy technologies\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nBased on current evidence, it is highly unlikely that global net carbon emissions will reach net zero before 2050 through existing or foreseeable technologies and policies alone. While there is rapid deployment of clean energy and some policy momentum, these are counterbalanced by rising energy demand, slow transitions in key sectors (industry, transport, agriculture), and uneven global action. Achieving net zero by 2050 would require not only accelerated technological adoption but also unprecedented policy coordination, investment, and societal change. The probability of reaching net zero globally before 2050 under current trajectories is low (<10%), though regional or sectoral net zero may be achieved sooner.\n\n---\n\n**2. Why This Question Is Hard**\n\n- **Scale and Complexity:** Global emissions stem from diverse sources (energy, industry, land use, transport, agriculture) across countries with vastly different capabilities and priorities.\n- **Coordination Problem:** Climate action requires synchronized efforts among nations, many of whom have conflicting economic interests.\n- **Technological Uncertainty:** While some solutions are mature (solar, wind), others (long-duration storage, carbon capture, negative emissions) are nascent or not yet scalable.\n- **Socio-political Dynamics:** Policy durability and public acceptance are variable and subject to political cycles, economic shocks, and social resistance.\n- **Time Lags:** Infrastructure turnover, behavior change, and natural carbon cycles operate on decadal timescales.\n\n---\n\n**3. Current Forces and Constraints**\n\n**Forces Accelerating Net Zero:**\n- **Cost declines in renewables and batteries**\n- **Corporate and financial sector commitments**\n- **International agreements (Paris, COP28)**\n- **Public pressure and activism**\n\n**Constraints:**\n- **Fossil fuel lock-in:** Existing infrastructure and subsidies\n- **Slow progress in hard-to-abate sectors:** Cement, steel, aviation, shipping, agriculture\n- **Global energy demand growth:** Especially in developing economies\n- **Policy gaps and enforcement weaknesses**\n- **Limited deployment of negative emissions technologies**\n\n---\n\n**4. Three to Five Plausible Futures**\n\n**A. Business-as-Usual (BAU):**\n- Emissions plateau or decline slowly as clean energy grows, but fossil fuels remain significant. Net zero not achieved before 2070.\n\n**B. Accelerated Transition:**\n- Major technological breakthroughs (e.g., cheap green hydrogen, scalable carbon removal) and strong policy alignments drive rapid decarbonization. Net zero achieved around 2050, but not substantially before.\n\n**C. Fragmented Progress:**\n- Some regions (EU, US, China) approach net zero by 2050, but global emissions persist due to lagging action in other regions.\n\n**D. Disruptive Shock:**\n- Geopolitical, economic, or climate shocks (e.g., major climate disasters, fossil fuel price spikes) trigger rapid policy shifts and behavioral change, but still unlikely to deliver global net zero before 2050 due to inertia.\n\n**E. Stalled Transition:**\n- Policy reversals, technological setbacks, or economic crises stall progress. Emissions continue rising or only slowly decline.\n\n---\n\n**5. Key Assumptions**\n\n- **No major global war or economic collapse**\n- **Current rate of technological innovation persists**\n- **International climate agreements remain voluntary**\n- **Negative emissions technologies scale slowly**\n- **Developing world prioritizes growth, with gradual shift to clean energy**\n\n---\n\n**6. Predictions with Time Horizons**\n\n- **2025:** Global emissions likely to plateau but not decline sharply; clean energy share rises, but fossil fuel use remains robust.\n- **2030:** Some countries/regions achieve significant emissions reductions; global emissions may peak, but net zero remains distant.\n- **2040:** Net zero achieved in a few advanced economies and sectors; global emissions decline more rapidly, but large residual emissions persist.\n- **2050:** Global net zero not achieved; plausible range for global net zero is 2060–2080 under current trajectories.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n**Toward Earlier Net Zero:**\n- **Breakthroughs in negative emissions (e.g., cheap, scalable direct air capture)**\n- **Global carbon pricing or binding treaties with enforcement**\n- **Massive, coordinated investment shifts away from fossil fuels**\n- **Rapid phase-out of coal and oil globally**\n- **Major behavioral shifts (e.g., reduced meat consumption, travel)**\n\n**Toward Later Net Zero:**\n- **Continued or increased fossil fuel investments**\n- **Policy backsliding in major economies**\n- **Technological stagnation or failure**\n- **Major economic or political crises diverting attention from climate**\n\n---\n\n**8. What a Builder, Policymaker, Investor, and Citizen Should Watch**\n\n**Builder (Entrepreneur/Technologist):**\n- Adoption rates and cost curves of clean energy, storage, and carbon removal\n- Regulatory incentives and barriers for new tech\n\n**Policymaker:**\n- International policy alignment and enforcement\n- Effectiveness of carbon pricing, subsidies, and mandates\n- Public opinion and political feasibility\n\n**Investor:**\n- Shifts in capital flows to green vs. fossil assets\n- Corporate net zero commitments and disclosures\n- Early signals of stranded assets\n\n**Citizen:**\n- Local and national policy changes\n- Opportunities for personal and community action (e.g., electrification, diet)\n- Media coverage of climate impacts and solutions\n\n---\n\n**9. Best Next Questions**\n\n- What are the most promising negative emissions technologies, and what is their realistic scaling timeline?\n- Which countries or sectors are likely to reach net zero first, and why?\n- How might geopolitical or economic shocks accelerate or delay the transition?\n- What policy mechanisms have proven most effective in driving rapid decarbonization?\n- How can equity and justice be incorporated into the net zero transition globally?\n\n---\n\n**Summary Table: Key Monitoring Signals**\n\n| Signal                         | Directional Implication    | Monitor Frequency |\n|-------------------------------|---------------------------|------------------|\n| Global emissions data         | Progress/Stagnation       | Annual           |\n| Clean tech cost and adoption  | Acceleration/Pause        | Quarterly        |\n| Policy announcements         | Acceleration/Reversal     | Real-time        |\n| Capital flows (green/fossil) | Acceleration/Stagnation   | Quarterly        |\n| Breakthroughs in carbon removal | Acceleration           | As announced     |\n\n**Conclusion:**  \nAbsent dramatic, coordinated, and sustained global action or unforeseen technological leaps, global net zero before 2050 is improbable. However, early signals of acceleration should be closely monitored, as the landscape can shift rapidly under the right conditions.",
+  "selected": {
+    "selected_at": "2026-06-20T13:35:53.491753+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 6,
+    "selected_question": {
+      "domain": "climate and energy",
+      "question": "Will global net carbon emissions reach net zero before 2050 through current or emerging technologies and policies?",
+      "why_it_matters": "Achieving net zero is critical to limit catastrophic climate impacts and guide investment and policy decisions.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "annual global carbon emission data",
+        "adoption rates of clean energy technologies"
+      ]
+    },
+    "selected_score": {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 8,
+      "rationale": "Net zero emissions critical for climate; uncertainty moderate due to policy and tech factors; highly actionable for policy and investment; less novel but vital; falsifiable by emission data.",
+      "total": 8.0
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Autonomous AI scientific breakthroughs would revolutionize research; medium uncertainty due to rapid AI progress; actionable for research funding and policy; novel in scale and autonomy; falsifiable by tracking AI scientific outputs.",
+        "total": 7.94
+      },
+      {
+        "index": 1,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Practical quantum advantage would disrupt multiple fields; uncertainty moderate due to technical challenges; actionable for infrastructure and security planning; novel technological milestone; falsifiable by demonstration of error-corrected quantum advantage.",
+        "total": 7.58
+      },
+      {
+        "index": 2,
+        "importance": 10,
+        "uncertainty": 6,
+        "actionability": 5,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "Nuclear conflict has catastrophic global impact; uncertainty moderate due to geopolitical complexity; limited direct actionability but critical for policy; less novel but highly consequential; falsifiable by occurrence or non-occurrence within timeframe.",
+        "total": 7.14
+      },
+      {
+        "index": 3,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "DAO replacing government functions would transform governance; uncertainty moderate given legal and social barriers; actionable for legal and political reforms; novel governance model; falsifiable by legal and functional adoption.",
+        "total": 7.3
+      },
+      {
+        "index": 4,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "AI-driven job loss impacts economy and society; uncertainty moderate due to economic complexity; actionable for policy and labor market interventions; moderately novel at scale; falsifiable by employment data trends.",
+        "total": 7.74
+      },
+      {
+        "index": 5,
+        "importance": 9,
+        "uncertainty": 6,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Gene editing cures would transform healthcare; uncertainty moderate due to clinical and regulatory hurdles; actionable for medical research and healthcare policy; novel therapeutic milestone; falsifiable by clinical outcomes.",
+        "total": 7.54
+      },
+      {
+        "index": 6,
+        "importance": 10,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 6,
+        "falsifiability": 8,
+        "rationale": "Net zero emissions critical for climate; uncertainty moderate due to policy and tech factors; highly actionable for policy and investment; less novel but vital; falsifiable by emission data.",
+        "total": 8.0
+      },
+      {
+        "index": 7,
+        "importance": 7,
+        "uncertainty": 8,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "VR as primary social medium would reshape culture; uncertainty high due to adoption and tech limits; actionable for media and tech sectors; novel social phenomenon; falsifiable by usage data.",
+        "total": 7.22
+      }
+    ]
+  }
+}

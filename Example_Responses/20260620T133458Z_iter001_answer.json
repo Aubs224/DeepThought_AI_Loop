@@ -1,0 +1,121 @@
+{
+  "answered_at": "2026-06-20T13:35:30.862587+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nHow soon will quantum computing breakthroughs render current cryptographic systems insecure, necessitating a global transition to post-quantum cryptography?\n\nContext:\nDomain: technology infrastructure\nWhy it matters: Timing this transition is critical to securing financial, governmental, and personal data before vulnerabilities are exploited.\nInitial signals to watch: demonstrations of quantum supremacy on cryptography tasks, adoption rates of post-quantum standards, reports of cryptographic breaches\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nThe timeline for quantum computing breakthroughs that threaten current cryptographic systems remains deeply uncertain. While theoretical advances suggest that quantum computers could eventually break widely-used public-key cryptosystems (notably RSA and ECC), practical quantum computers capable of this are not yet realized. Most expert estimates place the threat window at least a decade away, but the transition to post-quantum cryptography (PQC) is already underway due to the high stakes and long lead times for infrastructure change. The situation is dynamic, with key signals—including quantum hardware progress, cryptanalytic research, and standardization milestones—likely to shift the forecast. Prudent actors should prepare for a transition within the next 10–20 years, but remain agile as the landscape evolves.\n\n---\n\n**2. Why This Question Is Hard**\n\n- **Technological Uncertainty:** The pace of quantum hardware and algorithmic progress is unpredictable. Recent advances (e.g., error correction, qubit scaling) are promising but far from the scale required to break real-world cryptography.\n- **Nonlinear Progress:** Quantum computing may advance in fits and starts, with sudden breakthroughs or unexpected roadblocks.\n- **Cryptographic Diversity:** Not all cryptosystems are equally vulnerable; symmetric cryptography is less threatened than public-key systems.\n- **Deployment Lag:** Migrating global infrastructure is slow, so action must precede clear and present danger.\n- **Opaque Actors:** State-level quantum capabilities may be concealed, and “harvest now, decrypt later” attacks are possible.\n\n---\n\n**3. Current Forces and Constraints**\n\n- **Quantum Hardware Limitations:** Current machines have <1000 noisy qubits; breaking RSA-2048 likely requires millions of logical (error-corrected) qubits.\n- **Algorithmic Advances:** Shor’s algorithm is the main threat, but requires large, stable quantum computers. No feasible quantum attacks on post-quantum schemes have been demonstrated.\n- **Standardization Efforts:** NIST and other bodies are finalizing PQC standards, with initial selections made in 2022 and full standards expected by 2024–2025.\n- **Industry Momentum:** Major tech firms (Google, Microsoft, IBM) and governments are investing in both quantum computing and PQC migration.\n- **Regulatory Pressure:** Some sectors (e.g., US federal agencies) are already mandated to plan for PQC.\n\n---\n\n**4. Plausible Futures**\n\n**A. Gradual Transition, No Early Breakthrough (Most Likely)**\n- Quantum computers do not reach cryptographically relevant scale until 2035–2045.\n- PQC standards mature and are adopted across critical infrastructure over the next 10–15 years.\n- No major cryptographic breaches occur preemptively.\n\n**B. Sudden Quantum Leap**\n- A breakthrough in qubit scaling, error correction, or new algorithms accelerates the timeline, enabling attacks as early as 2030.\n- Infrastructure is caught off-guard; sensitive data encrypted today is retrospectively compromised.\n\n**C. Quantum Winter**\n- Technical challenges prove more daunting than expected; useful quantum computers remain decades away.\n- PQC migration continues, but at a slower, risk-managed pace.\n\n**D. Hybrid Threat Landscape**\n- Quantum computers become capable of breaking some but not all cryptosystems (e.g., weaker key sizes, specific protocols) by late 2030s.\n- Selective breaches occur, driving targeted rather than universal migration.\n\n---\n\n**5. Key Assumptions**\n\n- No currently unknown, more efficient quantum algorithms for breaking cryptography will be discovered imminently.\n- Quantum hardware progress will continue along recent trajectories (e.g., doubling qubit counts every 1–2 years).\n- PQC algorithms standardized today will remain secure against both classical and quantum attacks.\n- State actors will not achieve secret, large-scale quantum breakthroughs far ahead of public knowledge.\n\n---\n\n**6. Predictions with Time Horizons**\n\n- **2024–2026:** PQC standards finalized and pilot deployments begin in high-security sectors.\n- **2027–2032:** Gradual, sector-by-sector migration to PQC; most new systems in finance, government, and cloud adopt PQC by default.\n- **2030–2040:** Earliest plausible window for quantum computers to threaten RSA/ECC at meaningful key sizes, though 2040+ is more likely.\n- **2040–2050:** Full deprecation of vulnerable cryptosystems in critical infrastructure; legacy vulnerabilities persist in long-tail systems.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n- **Demonstrated Quantum Supremacy on Cryptographic Tasks:** Public or credible leaks of a quantum computer breaking 128–256 bit RSA/ECC keys.\n- **Rapid Qubit Scaling:** Announcements of error-corrected quantum computers with >10,000 logical qubits.\n- **New Quantum Algorithms:** Discovery of substantially more efficient quantum attacks on current or PQC algorithms.\n- **Cryptanalytic Breaks of PQC:** Practical attacks on leading PQC candidates, requiring re-standardization.\n\n---\n\n**8. What to Watch: Stakeholder Guidance**\n\n- **Builder:** Track PQC standardization, vendor support, and migration toolchains. Prototype hybrid (PQC + classical) solutions.\n- **Policymaker:** Monitor NIST and international standards, mandate inventory of vulnerable systems, and fund PQC R&D.\n- **Investor:** Watch for quantum hardware milestones, PQC adoption rates, and companies offering migration/security services.\n- **Citizen:** Look for communications from banks, governments, and service providers about cryptographic upgrades; beware of quantum hype and scams.\n\n---\n\n**9. Best Next Questions**\n\n- How resilient are current PQC candidates to both quantum and classical cryptanalysis?\n- What is the real-world cost and complexity of migrating legacy infrastructure to PQC?\n- Are there plausible “unknown unknowns” in quantum algorithms that could upend current forecasts?\n- What are the most effective incentives or mandates to accelerate PQC adoption in lagging sectors?\n- How should organizations manage data with long confidentiality lifespans (“harvest now, decrypt later” risk) during the transition?\n\n---\n\n**Summary Table: Key Signals to Monitor**\n\n| Signal                                   | Implication for Timeline         |\n|-------------------------------------------|---------------------------------|\n| >10,000 logical qubit quantum computer    | Accelerate transition, 5–10 yrs |\n| Public break of RSA/ECC by quantum means  | Immediate emergency migration   |\n| PQC cryptanalytic break                   | Re-standardize, extend timeline |\n| PQC adoption in critical infrastructure   | On track, 10–20 year window     |\n\n**Conclusion:**  \nThe transition to post-quantum cryptography is urgent but not yet critical. The prudent course is to begin migration now, monitor key signals, and remain flexible to accelerate or decelerate as technology and threats evolve.",
+  "selected": {
+    "selected_at": "2026-06-20T13:35:16.218243+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 1,
+    "selected_question": {
+      "domain": "technology infrastructure",
+      "question": "How soon will quantum computing breakthroughs render current cryptographic systems insecure, necessitating a global transition to post-quantum cryptography?",
+      "why_it_matters": "Timing this transition is critical to securing financial, governmental, and personal data before vulnerabilities are exploited.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "demonstrations of quantum supremacy on cryptography tasks",
+        "adoption rates of post-quantum standards",
+        "reports of cryptographic breaches"
+      ]
+    },
+    "selected_score": {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Quantum computing impact on cryptography is crucial for security; timing is uncertain; actionable for cryptographic standards and policy; somewhat novel; falsifiable by observing breakthroughs and cryptanalysis.",
+      "total": 7.74
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 7,
+        "falsifiability": 6,
+        "rationale": "Determining AI governance thresholds is critical for global safety; uncertainty is high due to evolving AI capabilities; actionable for policymakers; moderately novel; partially falsifiable as thresholds can be defined and tested over time.",
+        "total": 7.58
+      },
+      {
+        "index": 1,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 8,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "Quantum computing impact on cryptography is crucial for security; timing is uncertain; actionable for cryptographic standards and policy; somewhat novel; falsifiable by observing breakthroughs and cryptanalysis.",
+        "total": 7.74
+      },
+      {
+        "index": 2,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 5,
+        "falsifiability": 5,
+        "rationale": "Geopolitical stability affects global strategy; uncertainty moderate due to complex variables; actionability moderate; less novel as multipolarity is well-studied; falsifiable over long term by observing conflict trends.",
+        "total": 6.4
+      },
+      {
+        "index": 3,
+        "importance": 7,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 7,
+        "falsifiability": 6,
+        "rationale": "Decentralized governance could reshape political systems; uncertainty moderate; actionable for governance innovation; fairly novel; falsifiable by measuring legitimacy and effectiveness over time.",
+        "total": 6.66
+      },
+      {
+        "index": 4,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 6,
+        "falsifiability": 7,
+        "rationale": "AI automation impact on labor is vital for economic planning; uncertainty moderate; actionable for policy and education; moderately novel; falsifiable by labor market data.",
+        "total": 7.54
+      },
+      {
+        "index": 5,
+        "importance": 8,
+        "uncertainty": 8,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 6,
+        "rationale": "Anti-aging breakthroughs would transform society; high uncertainty; actionability moderate due to research complexity; novel; falsifiable through clinical outcomes.",
+        "total": 7.32
+      },
+      {
+        "index": 6,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Carbon removal scalability is key for climate goals; uncertainty moderate; actionable for policy and investment; somewhat novel; falsifiable by deployment data.",
+        "total": 7.72
+      },
+      {
+        "index": 7,
+        "importance": 7,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 7,
+        "falsifiability": 6,
+        "rationale": "AI-generated content affects culture and media; moderate uncertainty; actionable for media and regulatory sectors; fairly novel; falsifiable by market and consumption data.",
+        "total": 6.66
+      }
+    ]
+  }
+}

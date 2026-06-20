@@ -1,0 +1,116 @@
+{
+  "selected_at": "2026-06-20T13:38:14.397230+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 0,
+  "selected_question": {
+    "domain": "artificial intelligence",
+    "question": "What is the earliest plausible timeframe in which artificial general intelligence (AGI) will achieve reliable human-level autonomous decision-making in high-stakes contexts?",
+    "why_it_matters": "Knowing this timeline impacts investment, regulation, and safety preparations for transformative AI technologies.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "major AI lab breakthroughs",
+      "scaling of training compute",
+      "regulatory frameworks",
+      "deployment in critical sectors"
+    ]
+  },
+  "selected_score": {
+    "index": 0,
+    "importance": 10,
+    "uncertainty": 9,
+    "actionability": 8,
+    "novelty": 8,
+    "falsifiability": 7,
+    "rationale": "AGI timeline is critical for safety and policy; high uncertainty; actionable for regulation and investment; novel due to rapid AI advances; falsifiable by observing deployment.",
+    "total": 8.58
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 10,
+      "uncertainty": 9,
+      "actionability": 8,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "AGI timeline is critical for safety and policy; high uncertainty; actionable for regulation and investment; novel due to rapid AI advances; falsifiable by observing deployment.",
+      "total": 8.58
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Quantum internet impacts security and geopolitics; technological feasibility uncertain; actionable for R&D and policy; moderately novel; falsifiable by deployment status.",
+      "total": 7.94
+    },
+    {
+      "index": 2,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 6,
+      "falsifiability": 5,
+      "rationale": "Geopolitical stability affects global cooperation; uncertainty moderate; less directly actionable; question is broad and less novel; falsifiable but complex.",
+      "total": 6.86
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 6,
+      "rationale": "Digital democracy affects governance and trust; uncertainty moderate; actionable for platform design and policy; somewhat novel; falsifiable via polarization metrics.",
+      "total": 7.1
+    },
+    {
+      "index": 4,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 9,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "AI automation impacts labor markets globally; high importance and uncertainty; actionable for economic policy; moderately novel; falsifiable by labor data.",
+      "total": 8.36
+    },
+    {
+      "index": 5,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "Universal vaccine platform critical for health security; uncertainty due to scientific challenges; actionable for funding and research; novel; falsifiable by vaccine development.",
+      "total": 8.1
+    },
+    {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 9,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Net-zero feasibility crucial for climate policy; uncertainty in tech and economics; highly actionable; moderately novel; falsifiable by emission and technology data.",
+      "total": 8.36
+    },
+    {
+      "index": 7,
+      "importance": 7,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "AI-generated media affects culture and economics; moderate importance; uncertainty in adoption rates; actionable for media strategies; novel; falsifiable by market data.",
+      "total": 7.02
+    }
+  ]
+}

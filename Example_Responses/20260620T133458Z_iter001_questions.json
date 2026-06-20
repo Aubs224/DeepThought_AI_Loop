@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "At what threshold of AI autonomy and capability will global governance frameworks need to enforce binding international regulations to prevent systemic risks?",
+      "why_it_matters": "Determining this threshold can guide preemptive policy to avoid catastrophic misuse or unintended consequences of AI.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "emergence of general AI benchmarks",
+        "international AI regulatory treaties",
+        "incidents of AI system failures"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "How soon will quantum computing breakthroughs render current cryptographic systems insecure, necessitating a global transition to post-quantum cryptography?",
+      "why_it_matters": "Timing this transition is critical to securing financial, governmental, and personal data before vulnerabilities are exploited.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "demonstrations of quantum supremacy on cryptography tasks",
+        "adoption rates of post-quantum standards",
+        "reports of cryptographic breaches"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Will multipolar international relations lead to a sustained period of geopolitical stability or increase the likelihood of major conflict in the next two decades?",
+      "why_it_matters": "Understanding this trajectory informs defense, diplomacy, and economic strategy globally.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "alliances formation patterns",
+        "frequency of proxy conflicts",
+        "military expenditure trends"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Can decentralized digital governance models achieve widespread legitimacy and effectiveness compared to traditional nation-states within 15 years?",
+      "why_it_matters": "Answers could disrupt or reinforce the current paradigms of political authority and citizen participation.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "adoption rates of blockchain-based governance",
+        "public trust metrics in decentralized vs centralized institutions",
+        "legal recognition of decentralized entities"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will AI-driven automation replace more than 30% of current human labor roles globally by 2035, and what sectors are most vulnerable or resilient?",
+      "why_it_matters": "This impacts economic planning, social safety nets, and education system redesign.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "automation adoption rates",
+        "unemployment statistics by sector",
+        "AI capability improvements in complex tasks"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Is it possible to develop broadly effective, affordable anti-aging interventions that extend healthy human lifespan by more than 25% within 20 years?",
+      "why_it_matters": "Success would revolutionize healthcare, economics, and social structures.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "clinical trial results of longevity therapies",
+        "regulatory approvals of anti-aging drugs",
+        "investments in aging research"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Will globally coordinated carbon removal technologies scale to offset at least 30% of annual emissions by 2040, complementing emission reductions?",
+      "why_it_matters": "Understanding scalability affects climate policy and investments in mitigation strategies.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "deployment metrics of carbon removal projects",
+        "international climate agreements progress",
+        "cost trends in carbon capture technologies"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "To what extent will AI-generated content displace human cultural production in mainstream media consumption within 10 years?",
+      "why_it_matters": "Shifts in cultural production affect creativity, employment, and information ecosystems.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "market share of AI-generated media",
+        "public perception surveys",
+        "regulatory responses to AI content"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:35:08.083249+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

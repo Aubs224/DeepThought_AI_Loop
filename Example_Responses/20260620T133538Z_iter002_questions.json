@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "Can advanced AI systems autonomously develop and implement novel scientific theories that outperform human researchers within the next decade?",
+      "why_it_matters": "If AI can autonomously advance science, it would revolutionize research productivity and the allocation of scientific resources.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "breakthrough AI-generated scientific publications",
+        "AI patents surpassing human-originated ones"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Will quantum computing achieve practical error-corrected quantum advantage for real-world applications within the next 15 years?",
+      "why_it_matters": "Practical quantum advantage would disrupt cryptography, optimization, and materials science, requiring massive shifts in tech infrastructure and security.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "demonstrations of error-corrected quantum circuits",
+        "industry investment spikes in quantum computing"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Is a large-scale, multi-nation conflict involving nuclear weapons more likely than not within the next 30 years?",
+      "why_it_matters": "Such conflict would drastically alter global power structures, economies, and human survival strategies.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "escalating military alliances",
+        "nuclear proliferation trends",
+        "diplomatic breakdowns"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Will decentralized autonomous organizations (DAOs) replace traditional government functions in at least one major country within 20 years?",
+      "why_it_matters": "A shift to DAO governance would redefine political power, legal systems, and citizen engagement worldwide.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "legal recognitions of DAOs",
+        "major public services managed by DAOs"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will AI-driven automation cause a net global decrease in total human employment within the next 15 years?",
+      "why_it_matters": "A net decline in jobs due to automation would require fundamental economic restructuring and social safety nets.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "global employment statistics vs automation rates",
+        "wage trends across sectors"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Can gene editing therapies reliably cure the top five genetic diseases in humans within the next 10 years?",
+      "why_it_matters": "Effective cures would transform healthcare, reduce long-term costs, and improve quality of life globally.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "clinical trial outcomes",
+        "regulatory approvals of gene therapies"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Will global net carbon emissions reach net zero before 2050 through current or emerging technologies and policies?",
+      "why_it_matters": "Achieving net zero is critical to limit catastrophic climate impacts and guide investment and policy decisions.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "annual global carbon emission data",
+        "adoption rates of clean energy technologies"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will immersive virtual reality platforms become the primary medium for social interaction among young adults globally within 15 years?",
+      "why_it_matters": "This would reshape social norms, identity formation, and media consumption patterns on a massive scale.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "VR user base growth",
+        "market share of VR social platforms",
+        "youth social behavior studies"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:35:46.017359+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

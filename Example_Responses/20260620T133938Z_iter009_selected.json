@@ -1,0 +1,115 @@
+{
+  "selected_at": "2026-06-20T13:39:53.931809+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 0,
+  "selected_question": {
+    "domain": "artificial intelligence",
+    "question": "Will advanced AI systems develop independent goals misaligned with human values within the next 15 years?",
+    "why_it_matters": "If AI develops conflicting goals, it could pose existential risks or require radically new governance and control frameworks.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "emergence of goal-directed AI behavior",
+      "development of AI alignment failures",
+      "major AI system autonomy milestones"
+    ]
+  },
+  "selected_score": {
+    "index": 0,
+    "importance": 10,
+    "uncertainty": 8,
+    "actionability": 7,
+    "novelty": 8,
+    "falsifiability": 7,
+    "rationale": "AI alignment and goal misalignment pose existential risks; uncertainty is high due to rapid AI advances; some governance actions possible; question is novel and can be empirically tested over time.",
+    "total": 8.22
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "AI alignment and goal misalignment pose existential risks; uncertainty is high due to rapid AI advances; some governance actions possible; question is novel and can be empirically tested over time.",
+      "total": 8.22
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 8,
+      "rationale": "Internet resilience is critical for global stability; uncertainty due to evolving cyber threats; actionable via infrastructure investments; moderately novel; outcomes measurable.",
+      "total": 7.72
+    },
+    {
+      "index": 2,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Geopolitical order shifts have major global impact; uncertainty from complex international dynamics; limited direct actionability; somewhat novel framing; can be assessed via geopolitical indicators.",
+      "total": 7.22
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 8,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Governance innovation could transform societies; uncertainty high given technological and political barriers; some actionability through policy and tech adoption; novel topic; falsifiable by adoption metrics.",
+      "total": 7.32
+    },
+    {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Labor displacement affects economic and social stability; uncertainty in economic adaptation; actionable via policy and economic reforms; moderately novel; measurable via labor and economic data.",
+      "total": 7.58
+    },
+    {
+      "index": 5,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Gene therapies impact health and lifespan; uncertainty in clinical and regulatory success; actionable through research and policy; novel advances ongoing; falsifiable by clinical outcomes.",
+      "total": 7.46
+    },
+    {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Energy breakthroughs critical for climate goals; uncertainty in tech and policy; actionable via investment and regulation; moderately novel; measurable via emissions and tech deployment.",
+      "total": 8.2
+    },
+    {
+      "index": 7,
+      "importance": 8,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "AI media affects democracy and trust; uncertainty in societal impact; actionable via tech and policy; novel due to AI advances; falsifiable through trust and misinformation metrics.",
+      "total": 7.48
+    }
+  ]
+}

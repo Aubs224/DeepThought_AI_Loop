@@ -1,0 +1,115 @@
+{
+  "selected_at": "2026-06-20T13:38:45.732455+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 4,
+  "selected_question": {
+    "domain": "economics and labor",
+    "question": "Will automation displace more than 30% of current jobs in developed economies by 2040, and what new sectors will emerge to offset this?",
+    "why_it_matters": "Understanding automation’s net impact is crucial for education, welfare, and economic policy planning.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "labor market employment trends",
+      "investment patterns in automation vs human labor",
+      "emergence of new economic sectors"
+    ]
+  },
+  "selected_score": {
+    "index": 4,
+    "importance": 9,
+    "uncertainty": 8,
+    "actionability": 8,
+    "novelty": 7,
+    "falsifiability": 8,
+    "rationale": "Automation’s impact on jobs is critical for policy; measurable and actionable with moderate novelty.",
+    "total": 8.1
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 10,
+      "uncertainty": 9,
+      "actionability": 6,
+      "novelty": 9,
+      "falsifiability": 4,
+      "rationale": "AI consciousness would have profound ethical and regulatory impact; highly uncertain and novel, but difficult to falsify conclusively.",
+      "total": 7.9
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "Quantum computing breakthroughs would revolutionize tech; progress is uncertain but measurable and falsifiable.",
+      "total": 7.94
+    },
+    {
+      "index": 2,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Geopolitical shifts have major global impact; somewhat predictable and falsifiable over 15 years.",
+      "total": 7.58
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Global digital ID systems affect privacy and governance; feasible but complex, with measurable progress.",
+      "total": 7.12
+    },
+    {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Automation’s impact on jobs is critical for policy; measurable and actionable with moderate novelty.",
+      "total": 8.1
+    },
+    {
+      "index": 5,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Universal vaccines would transform health; progress measurable and actionable, with moderate uncertainty.",
+      "total": 7.9
+    },
+    {
+      "index": 6,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Cost parity for DAC critical for climate goals; measurable and actionable with moderate uncertainty.",
+      "total": 7.9
+    },
+    {
+      "index": 7,
+      "importance": 7,
+      "uncertainty": 8,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "Decentralized social media could reshape info control; uncertain but measurable and moderately actionable.",
+      "total": 7.22
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "summary": "Achieving 75% global energy from renewables by 2040 is technically possible but highly unlikely without unprecedented global coordination, investment, and technological breakthroughs. Key challenges include infrastructure scale and speed, intermittency of solar and wind, storage limitations, grid modernization, and geopolitical/material supply constraints. Multiple futures range from accelerated transformation to stalled transition or disruptive instability. Near-term renewable shares will grow but global supply stability risks remain, especially in developing regions.",
+  "key_predictions": [
+    {
+      "prediction": "By 2030, global renewables share (all energy) will likely reach 25-35%, with grid instability localized.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "By 2040, global renewable share of 40-60% is plausible; >75% only in select advanced regions with strong grids and storage.",
+      "time_horizon": "medium",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "Major supply instability is unlikely in advanced economies with robust grid management but higher risk exists in rapidly transitioning, under-resourced regions.",
+      "time_horizon": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "assumptions": [
+    "Continued cost declines for renewables, storage, and grid technologies.",
+    "Sustained or increased political will despite economic or geopolitical shocks.",
+    "Global cooperation on technology transfer, financing, and standards.",
+    "No major disruptive technology breakthroughs (e.g., ultra-cheap, scalable seasonal storage) before 2035."
+  ],
+  "uncertainties": [
+    "Timing and impact of breakthroughs in long-duration, low-cost energy storage technologies.",
+    "Speed and scale of grid modernization and digitalization.",
+    "Geopolitical stability and material supply chain resilience for critical minerals.",
+    "Degree of public acceptance and political support amid potential supply instabilities.",
+    "Effectiveness of demand-side flexibility incentives and adoption."
+  ],
+  "signals_to_monitor": [
+    "Breakthroughs in long-duration, low-cost storage technologies (flow batteries, hydrogen, thermal storage).",
+    "Progress in affordable, rapid grid modernization including digitalization and HVDC supergrids.",
+    "Global policy alignment on carbon pricing, fossil fuel phaseouts, and green finance.",
+    "Material supply chain disruptions or innovations reducing reliance on scarce minerals.",
+    "Incidence of public backlash or major blackouts linked to renewable integration."
+  ],
+  "next_questions": [
+    "What are the most promising pathways for affordable, scalable long-duration energy storage?",
+    "Which regions are most at risk for supply instability during rapid renewable integration?",
+    "How can demand-side flexibility (e.g., smart loads, electric vehicles) be incentivized to support grid stability?",
+    "What are the geopolitical implications of mineral dependencies for renewable energy technologies?",
+    "How can developing countries leapfrog to high-renewable, stable energy systems?"
+  ],
+  "extracted_at": "2026-06-20T13:36:50.324661+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "climate and energy",
+    "question": "Is it feasible for renewable energy sources to provide at least 75% of global energy consumption by 2040 without causing major supply instability?",
+    "why_it_matters": "Determines viability of climate mitigation strategies and energy security planning.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "renewable energy capacity growth",
+      "grid stability metrics",
+      "energy storage technology breakthroughs"
+    ]
+  }
+}

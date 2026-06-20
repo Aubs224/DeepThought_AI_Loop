@@ -1,0 +1,115 @@
+{
+  "selected_at": "2026-06-20T13:37:41.219517+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 6,
+  "selected_question": {
+    "domain": "climate and energy",
+    "question": "Can scalable, economically viable carbon capture and storage technologies remove over 1 gigaton of CO2 annually from the atmosphere before 2035?",
+    "why_it_matters": "If feasible, carbon capture could be crucial in meeting climate targets and shaping energy policies.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "commercial deployments of carbon capture facilities",
+      "cost trends for capture technologies",
+      "government incentives and funding levels"
+    ]
+  },
+  "selected_score": {
+    "index": 6,
+    "importance": 10,
+    "uncertainty": 8,
+    "actionability": 9,
+    "novelty": 7,
+    "falsifiability": 8,
+    "rationale": "Carbon capture scale is key for climate goals; actionable with measurable deployment and cost data.",
+    "total": 8.54
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 10,
+      "uncertainty": 9,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 6,
+      "rationale": "AGI autonomous goal formation is critical for AI safety and governance; uncertain and novel, with some measurable indicators.",
+      "total": 8.24
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Decentralizing internet infrastructure impacts global stability and economy; moderately uncertain and actionable.",
+      "total": 7.72
+    },
+    {
+      "index": 2,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Pandemic origin and severity is vital for public health; uncertain but with measurable epidemiological data.",
+      "total": 8.02
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 6,
+      "rationale": "Digital democracy legitimacy affects governance models; novel and uncertain with observable political developments.",
+      "total": 7.48
+    },
+    {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Automation's impact on jobs is crucial for economic policy; moderately uncertain and actionable.",
+      "total": 7.72
+    },
+    {
+      "index": 5,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Gene editing for disease correction has ethical and health implications; measurable and somewhat novel.",
+      "total": 7.74
+    },
+    {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 9,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Carbon capture scale is key for climate goals; actionable with measurable deployment and cost data.",
+      "total": 8.54
+    },
+    {
+      "index": 7,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "AI synthetic media indistinguishability challenges media trust and law; novel and observable trends.",
+      "total": 7.46
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "selected_at": "2026-06-20T13:40:29.567984+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 4,
+  "selected_question": {
+    "domain": "economics and labor",
+    "question": "Will automation displace more than 30% of current jobs in advanced economies by 2035 without net job creation in new sectors?",
+    "why_it_matters": "Guides workforce retraining, social safety net design, and economic policy reforms.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "automation adoption rates",
+      "labor market participation trends",
+      "emergence of new job categories"
+    ]
+  },
+  "selected_score": {
+    "index": 4,
+    "importance": 10,
+    "uncertainty": 8,
+    "actionability": 8,
+    "novelty": 7,
+    "falsifiability": 8,
+    "rationale": "Job displacement affects economies and social policy; uncertainty high; actionable for workforce planning; question is quantifiable and time-bound.",
+    "total": 8.38
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Human-level AGI would transform society; timeline is uncertain; monitoring AI progress can guide policy; question is specific and testable within timeframe.",
+      "total": 8.22
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Decentralized internet impacts data control and security; adoption trends are uncertain; actionable for policy and tech development; question is measurable by 2030.",
+      "total": 7.4
+    },
+    {
+      "index": 2,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 5,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Geopolitical shifts affect global stability; outcomes uncertain; less directly actionable but important for strategy; question is definable and testable.",
+      "total": 7.06
+    },
+    {
+      "index": 3,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 7,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "Automated citizen participation could transform governance; feasibility uncertain; actionable for democratic innovation; measurable by 2030.",
+      "total": 7.46
+    },
+    {
+      "index": 4,
+      "importance": 10,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Job displacement affects economies and social policy; uncertainty high; actionable for workforce planning; question is quantifiable and time-bound.",
+      "total": 8.38
+    },
+    {
+      "index": 5,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Pan-coronavirus vaccine critical for health security; scientific uncertainty remains; actionable for funding and research; testable by 2030.",
+      "total": 7.9
+    },
+    {
+      "index": 6,
+      "importance": 10,
+      "uncertainty": 7,
+      "actionability": 9,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Net-zero emissions vital for climate; feasibility uncertain; highly actionable for policy; measurable progress by 2050.",
+      "total": 7.98
+    },
+    {
+      "index": 7,
+      "importance": 7,
+      "uncertainty": 8,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 7,
+      "rationale": "Immersive media could reshape culture; adoption uncertain; actionable for media industry; measurable by 2040.",
+      "total": 7.22
+    }
+  ]
+}

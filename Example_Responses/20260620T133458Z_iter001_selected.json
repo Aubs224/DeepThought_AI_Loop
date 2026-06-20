@@ -1,0 +1,115 @@
+{
+  "selected_at": "2026-06-20T13:35:16.218243+00:00",
+  "judge_model": "gpt-4.1-mini",
+  "weights": {
+    "importance": 0.28,
+    "uncertainty": 0.2,
+    "actionability": 0.16,
+    "novelty": 0.18,
+    "falsifiability": 0.18
+  },
+  "selected_index": 1,
+  "selected_question": {
+    "domain": "technology infrastructure",
+    "question": "How soon will quantum computing breakthroughs render current cryptographic systems insecure, necessitating a global transition to post-quantum cryptography?",
+    "why_it_matters": "Timing this transition is critical to securing financial, governmental, and personal data before vulnerabilities are exploited.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "demonstrations of quantum supremacy on cryptography tasks",
+      "adoption rates of post-quantum standards",
+      "reports of cryptographic breaches"
+    ]
+  },
+  "selected_score": {
+    "index": 1,
+    "importance": 9,
+    "uncertainty": 8,
+    "actionability": 8,
+    "novelty": 6,
+    "falsifiability": 7,
+    "rationale": "Quantum computing impact on cryptography is crucial for security; timing is uncertain; actionable for cryptographic standards and policy; somewhat novel; falsifiable by observing breakthroughs and cryptanalysis.",
+    "total": 7.74
+  },
+  "all_scores": [
+    {
+      "index": 0,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 7,
+      "novelty": 7,
+      "falsifiability": 6,
+      "rationale": "Determining AI governance thresholds is critical for global safety; uncertainty is high due to evolving AI capabilities; actionable for policymakers; moderately novel; partially falsifiable as thresholds can be defined and tested over time.",
+      "total": 7.58
+    },
+    {
+      "index": 1,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "Quantum computing impact on cryptography is crucial for security; timing is uncertain; actionable for cryptographic standards and policy; somewhat novel; falsifiable by observing breakthroughs and cryptanalysis.",
+      "total": 7.74
+    },
+    {
+      "index": 2,
+      "importance": 8,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 5,
+      "falsifiability": 5,
+      "rationale": "Geopolitical stability affects global strategy; uncertainty moderate due to complex variables; actionability moderate; less novel as multipolarity is well-studied; falsifiable over long term by observing conflict trends.",
+      "total": 6.4
+    },
+    {
+      "index": 3,
+      "importance": 7,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 6,
+      "rationale": "Decentralized governance could reshape political systems; uncertainty moderate; actionable for governance innovation; fairly novel; falsifiable by measuring legitimacy and effectiveness over time.",
+      "total": 6.66
+    },
+    {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 6,
+      "falsifiability": 7,
+      "rationale": "AI automation impact on labor is vital for economic planning; uncertainty moderate; actionable for policy and education; moderately novel; falsifiable by labor market data.",
+      "total": 7.54
+    },
+    {
+      "index": 5,
+      "importance": 8,
+      "uncertainty": 8,
+      "actionability": 6,
+      "novelty": 8,
+      "falsifiability": 6,
+      "rationale": "Anti-aging breakthroughs would transform society; high uncertainty; actionability moderate due to research complexity; novel; falsifiable through clinical outcomes.",
+      "total": 7.32
+    },
+    {
+      "index": 6,
+      "importance": 9,
+      "uncertainty": 7,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 7,
+      "rationale": "Carbon removal scalability is key for climate goals; uncertainty moderate; actionable for policy and investment; somewhat novel; falsifiable by deployment data.",
+      "total": 7.72
+    },
+    {
+      "index": 7,
+      "importance": 7,
+      "uncertainty": 7,
+      "actionability": 6,
+      "novelty": 7,
+      "falsifiability": 6,
+      "rationale": "AI-generated content affects culture and media; moderate uncertainty; actionable for media and regulatory sectors; fairly novel; falsifiable by market and consumption data.",
+      "total": 6.66
+    }
+  ]
+}

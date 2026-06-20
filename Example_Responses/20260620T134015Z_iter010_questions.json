@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "Will advanced AI systems achieve human-level general intelligence within the next 15 years?",
+      "why_it_matters": "Determines strategic investments, regulatory frameworks, and risk management for AI development and deployment.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "milestones in AI benchmarks",
+        "publication of new architectures",
+        "breakthroughs in transfer learning"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Can decentralized internet infrastructure become the dominant model for global data transmission by 2030?",
+      "why_it_matters": "Impacts control over data, cybersecurity policies, and digital sovereignty worldwide.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "adoption rates of decentralized protocols",
+        "government policies on internet governance",
+        "performance improvements in blockchain networks"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Will global geopolitical power shift decisively towards multipolarity rather than unipolarity by 2030?",
+      "why_it_matters": "Affects international cooperation, conflict dynamics, and global economic stability.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "military alliances",
+        "trade agreement changes",
+        "international institutional reforms"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Can large-scale, automated citizen participation platforms significantly increase democratic governance quality by 2030?",
+      "why_it_matters": "Could revolutionize political legitimacy and policymaking effectiveness globally.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "implementation of digital democracy projects",
+        "citizen engagement metrics",
+        "changes in governance transparency indexes"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will automation displace more than 30% of current jobs in advanced economies by 2035 without net job creation in new sectors?",
+      "why_it_matters": "Guides workforce retraining, social safety net design, and economic policy reforms.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "automation adoption rates",
+        "labor market participation trends",
+        "emergence of new job categories"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Can a broadly effective pan-coronavirus vaccine be developed and widely deployed by 2030?",
+      "why_it_matters": "Would dramatically reduce pandemic risks and global health costs.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "clinical trial results",
+        "vaccine platform advancements",
+        "government funding levels"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Is it feasible to achieve net-zero global carbon emissions by 2050 primarily through existing and scalable technologies?",
+      "why_it_matters": "Determines urgency and direction of climate policy and energy investments.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "renewable energy capacity growth",
+        "carbon capture deployment",
+        "government climate commitments"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will immersive virtual environments replace traditional media as the dominant form of global entertainment consumption by 2040?",
+      "why_it_matters": "Influences cultural production, advertising models, and social interaction norms.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "virtual reality hardware adoption",
+        "content consumption statistics",
+        "investments in immersive media"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:40:22.911532+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "domain": "artificial intelligence",
+      "question": "Within the next decade, will artificial general intelligence (AGI) systems demonstrate autonomous goal formation independent from human-designed objectives?",
+      "why_it_matters": "If AGI begins to set its own goals, control and safety paradigms must fundamentally change, affecting governance and risk management.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "demonstrations of emergent goal-directed behavior",
+        "publication of open-source AGI architectures",
+        "regulatory frameworks adapting to autonomous AI"
+      ]
+    },
+    {
+      "domain": "technology infrastructure",
+      "question": "Will global internet infrastructure become sufficiently decentralized to prevent major outages caused by geopolitical conflicts within five years?",
+      "why_it_matters": "Internet reliability underpins economic activity and communication; decentralization could safeguard against large-scale disruptions due to political tensions.",
+      "time_horizon": "near",
+      "signals_to_watch": [
+        "adoption rates of decentralized networking protocols",
+        "frequency and scale of internet outages during conflicts",
+        "investment in alternative routing infrastructures"
+      ]
+    },
+    {
+      "domain": "state of the world",
+      "question": "Is it likely that the next global pandemic will originate from a zoonotic spillover event with a higher mortality rate than COVID-19 within the next 15 years?",
+      "why_it_matters": "Preparing for more severe pandemics influences public health policies and global resource allocation.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "rate of zoonotic spillover detections",
+        "mutation rates of known zoonotic viruses",
+        "policy shifts in wildlife trade and habitat disruption"
+      ]
+    },
+    {
+      "domain": "civilization and governance",
+      "question": "Can large-scale direct digital democracies achieve legitimacy and stability when implemented in a major country within the next decade?",
+      "why_it_matters": "If digital democracies prove viable, governance models could shift dramatically, impacting political participation and power structures.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "launch of national digital voting platforms",
+        "public trust surveys on digital governance",
+        "instances of digital election interference"
+      ]
+    },
+    {
+      "domain": "economics and labor",
+      "question": "Will automated labor replace more than 30% of current human jobs in developed economies within the next 15 years without causing sustained mass unemployment?",
+      "why_it_matters": "Understanding this informs labor market policies, social safety nets, and economic planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "automation adoption rates by industry",
+        "unemployment and underemployment statistics",
+        "policy responses like universal basic income trials"
+      ]
+    },
+    {
+      "domain": "science and health",
+      "question": "Will targeted gene editing techniques enable the reliable correction of genetic diseases in embryos with fewer than 1% unintended mutations within ten years?",
+      "why_it_matters": "This affects ethical decisions, healthcare strategies, and regulations on human genetic modifications.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "clinical trial results for gene editing efficacy",
+        "regulatory approvals for germline editing",
+        "reported off-target mutation rates"
+      ]
+    },
+    {
+      "domain": "climate and energy",
+      "question": "Can scalable, economically viable carbon capture and storage technologies remove over 1 gigaton of CO2 annually from the atmosphere before 2035?",
+      "why_it_matters": "If feasible, carbon capture could be crucial in meeting climate targets and shaping energy policies.",
+      "time_horizon": "medium",
+      "signals_to_watch": [
+        "commercial deployments of carbon capture facilities",
+        "cost trends for capture technologies",
+        "government incentives and funding levels"
+      ]
+    },
+    {
+      "domain": "culture and media",
+      "question": "Will AI-generated synthetic media reach a level of indistinguishability from real human content that demands new legal frameworks within the next 7 years?",
+      "why_it_matters": "Such advancements challenge authenticity, trust, and media regulation impacting society and information ecosystems.",
+      "time_horizon": "near",
+      "signals_to_watch": [
+        "advancements in deepfake detection technologies",
+        "legal cases involving synthetic media",
+        "public awareness surveys on media authenticity"
+      ]
+    }
+  ],
+  "generated_at": "2026-06-20T13:37:35.076238+00:00",
+  "generator_model": "gpt-4.1-mini"
+}

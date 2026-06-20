@@ -1,0 +1,121 @@
+{
+  "answered_at": "2026-06-20T13:38:59.556903+00:00",
+  "deep_model": "gpt-4.1",
+  "prompt": "Question:\nWill automation displace more than 30% of current jobs in developed economies by 2040, and what new sectors will emerge to offset this?\n\nContext:\nDomain: economics and labor\nWhy it matters: Understanding automation’s net impact is crucial for education, welfare, and economic policy planning.\nInitial signals to watch: labor market employment trends, investment patterns in automation vs human labor, emergence of new economic sectors\n\nProduce a deep analysis with these sections:\n1. Executive synthesis\n2. Why this question is hard\n3. Current forces and constraints\n4. Three to five plausible futures\n5. Key assumptions\n6. Predictions with time horizons\n7. Signals that would change the forecast\n8. What a builder, policymaker, investor, and citizen should watch\n9. Best next questions\n",
+  "answer_markdown": "**1. Executive Synthesis**\n\nThe prospect of automation displacing over 30% of current jobs in developed economies by 2040 is plausible but far from certain. The outcome depends on the pace of technological advancement, economic incentives, regulatory frameworks, and societal adaptation. While job displacement is likely in sectors with routine, codifiable tasks, new sectors—especially those related to digital services, green technology, care economy, and AI oversight—may partially offset losses. However, the scale and speed of new job creation, and the ability of workers to transition, remain highly uncertain. Policymakers, businesses, and individuals must monitor not only employment statistics but also sectoral shifts and the nature of emerging work.\n\n---\n\n**2. Why This Question Is Hard**\n\n- **Technological Uncertainty:** Predicting the pace and breadth of automation is inherently difficult. Past forecasts have often over- or underestimated adoption rates.\n- **Economic Complexity:** Automation’s impact is mediated by demand elasticity, wage dynamics, and the creation of complementary roles.\n- **Policy and Social Response:** Government interventions (e.g., retraining, regulation) and societal adaptation can dramatically alter outcomes.\n- **Measurement Challenges:** “Jobs displaced” is ambiguous—does it mean roles eliminated, tasks automated, or net employment change?\n- **Lag Effects:** Job losses and gains may not be synchronized, leading to transitional hardship even if long-term net effects are positive.\n\n---\n\n**3. Current Forces and Constraints**\n\n**Forces Accelerating Displacement:**\n- Rapid advances in AI (e.g., LLMs, robotics, computer vision)\n- Cost reductions in automation hardware/software\n- Labor shortages and demographic aging in developed economies\n- Competitive pressures to improve productivity\n\n**Constraints Slowing Displacement:**\n- High upfront investment for automation in some sectors\n- Regulatory and safety requirements (e.g., healthcare, transportation)\n- Consumer and worker resistance to fully automated services\n- Technical limitations in automating non-routine, social, or creative tasks\n\n**Offsetting Factors:**\n- Rising demand for new products and services enabled by automation\n- Expansion of sectors requiring human judgment, empathy, and creativity\n- Policy interventions (e.g., job guarantees, retraining programs)\n\n---\n\n**4. Three to Five Plausible Futures**\n\n**Scenario 1: Rapid Displacement, Partial Offset**\n- >30% of current jobs automated by 2040, especially in manufacturing, logistics, retail, and some white-collar roles.\n- New sectors (digital health, green energy, AI oversight, care economy) grow, but not fast enough to fully offset losses.\n- High transitional unemployment; social safety nets and retraining become central policy issues.\n\n**Scenario 2: Gradual Automation, Robust Job Creation**\n- Automation proceeds unevenly; only 15–25% of jobs displaced by 2040.\n- Strong emergence of new sectors (personalized education, climate adaptation, digital entertainment, human-AI collaboration).\n- Most displaced workers transition with support; net employment is stable or grows.\n\n**Scenario 3: Stalled Automation, Status Quo Maintained**\n- Technical, regulatory, or societal barriers slow automation adoption.\n- Job displacement remains below 10–15%; labor shortages in some sectors persist.\n- Economic growth slows, but social disruption is limited.\n\n**Scenario 4: Bifurcated Labor Market**\n- High automation in some sectors (e.g., logistics, finance); low in others (e.g., care, education).\n- Significant polarization: high-wage jobs in tech/management, low-wage jobs in personal services.\n- Middle-skill jobs shrink, increasing inequality and political pressure.\n\n---\n\n**5. Key Assumptions**\n\n- Continued progress in AI and robotics at or above current rates.\n- No major economic shocks (e.g., global depression, war) that fundamentally change investment patterns.\n- Policy responses are incremental rather than transformative.\n- Education and retraining systems adapt, but with lag and uneven effectiveness.\n- Consumer preferences do not shift dramatically against automation.\n\n---\n\n**6. Predictions with Time Horizons**\n\n- **By 2030:** 10–20% of current jobs in developed economies will be significantly reshaped or displaced by automation; most new job creation is in digital services, healthcare, and green tech.\n- **By 2040:** Displacement could reach 20–35% if current trends continue, with high variance across countries and sectors. New sectors (AI oversight, climate adaptation, human-centered services) will absorb some, but not all, displaced workers.\n- **Offsetting jobs:** For every 10 jobs automated, 6–8 new jobs may be created, but not always for the same workers or in the same locations.\n\n---\n\n**7. Signals That Would Change the Forecast**\n\n- **Acceleration:** Breakthroughs in general-purpose AI, rapid cost declines in robotics, or major labor cost shocks (e.g., wage surges) would speed displacement.\n- **Deceleration:** Regulatory pushback (e.g., bans on autonomous vehicles), public backlash, or major technical setbacks.\n- **Offsetting Sectors:** Early, large-scale emergence of new industries (e.g., synthetic biology, immersive digital worlds) that absorb large numbers of workers.\n- **Labor Market Rigidity:** Evidence of persistent skill mismatches or geographic immobility would worsen transitional unemployment.\n\n---\n\n**8. What a Builder, Policymaker, Investor, and Citizen Should Watch**\n\n- **Builder (Entrepreneur):** Track adoption rates of automation in target industries; monitor unmet needs emerging from new tech (e.g., AI safety, human augmentation).\n- **Policymaker:** Monitor unemployment/underemployment rates, retraining program effectiveness, regional disparities, and public sentiment on automation.\n- **Investor:** Watch capital flows into automation tech vs. human-centered sectors; look for early signals of new market creation (e.g., climate tech, elder care).\n- **Citizen:** Observe changing requirements for skills and lifelong learning; assess job security and opportunities for mobility.\n\n---\n\n**9. Best Next Questions**\n\n- What specific skills and education pathways will best prepare workers for the emerging sectors?\n- How effective are current retraining and safety net programs in facilitating transitions?\n- What regulatory approaches best balance innovation and social stability?\n- Which regions or demographics are most vulnerable to automation-driven displacement?\n- How do consumer attitudes toward automation influence adoption and job creation?\n\n---\n\n**Summary Table: Initial Signals to Monitor**\n\n| Signal                        | Interpretation if Rising | Interpretation if Falling |\n|-------------------------------|-------------------------|--------------------------|\n| Automation investment         | Faster displacement     | Slower displacement      |\n| New sector employment growth  | More offsetting jobs    | Fewer offsetting jobs    |\n| Unemployment/underemployment  | Insufficient offset     | Effective transition     |\n| Policy intervention           | Mitigates disruption    | Higher risk of hardship  |\n| Public sentiment              | Adoption pace affected  | Adoption pace affected   |\n\n**In sum:** The displacement of >30% of jobs by 2040 is possible but not inevitable. The emergence and scale of new sectors, and society’s ability to transition workers, are the critical uncertainties. Continuous monitoring and adaptive policy will be essential.",
+  "selected": {
+    "selected_at": "2026-06-20T13:38:45.732455+00:00",
+    "judge_model": "gpt-4.1-mini",
+    "weights": {
+      "importance": 0.28,
+      "uncertainty": 0.2,
+      "actionability": 0.16,
+      "novelty": 0.18,
+      "falsifiability": 0.18
+    },
+    "selected_index": 4,
+    "selected_question": {
+      "domain": "economics and labor",
+      "question": "Will automation displace more than 30% of current jobs in developed economies by 2040, and what new sectors will emerge to offset this?",
+      "why_it_matters": "Understanding automation’s net impact is crucial for education, welfare, and economic policy planning.",
+      "time_horizon": "long",
+      "signals_to_watch": [
+        "labor market employment trends",
+        "investment patterns in automation vs human labor",
+        "emergence of new economic sectors"
+      ]
+    },
+    "selected_score": {
+      "index": 4,
+      "importance": 9,
+      "uncertainty": 8,
+      "actionability": 8,
+      "novelty": 7,
+      "falsifiability": 8,
+      "rationale": "Automation’s impact on jobs is critical for policy; measurable and actionable with moderate novelty.",
+      "total": 8.1
+    },
+    "all_scores": [
+      {
+        "index": 0,
+        "importance": 10,
+        "uncertainty": 9,
+        "actionability": 6,
+        "novelty": 9,
+        "falsifiability": 4,
+        "rationale": "AI consciousness would have profound ethical and regulatory impact; highly uncertain and novel, but difficult to falsify conclusively.",
+        "total": 7.9
+      },
+      {
+        "index": 1,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 7,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Quantum computing breakthroughs would revolutionize tech; progress is uncertain but measurable and falsifiable.",
+        "total": 7.94
+      },
+      {
+        "index": 2,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Geopolitical shifts have major global impact; somewhat predictable and falsifiable over 15 years.",
+        "total": 7.58
+      },
+      {
+        "index": 3,
+        "importance": 8,
+        "uncertainty": 7,
+        "actionability": 6,
+        "novelty": 7,
+        "falsifiability": 7,
+        "rationale": "Global digital ID systems affect privacy and governance; feasible but complex, with measurable progress.",
+        "total": 7.12
+      },
+      {
+        "index": 4,
+        "importance": 9,
+        "uncertainty": 8,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Automation’s impact on jobs is critical for policy; measurable and actionable with moderate novelty.",
+        "total": 8.1
+      },
+      {
+        "index": 5,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Universal vaccines would transform health; progress measurable and actionable, with moderate uncertainty.",
+        "total": 7.9
+      },
+      {
+        "index": 6,
+        "importance": 9,
+        "uncertainty": 7,
+        "actionability": 8,
+        "novelty": 7,
+        "falsifiability": 8,
+        "rationale": "Cost parity for DAC critical for climate goals; measurable and actionable with moderate uncertainty.",
+        "total": 7.9
+      },
+      {
+        "index": 7,
+        "importance": 7,
+        "uncertainty": 8,
+        "actionability": 6,
+        "novelty": 8,
+        "falsifiability": 7,
+        "rationale": "Decentralized social media could reshape info control; uncertain but measurable and moderately actionable.",
+        "total": 7.22
+      }
+    ]
+  }
+}

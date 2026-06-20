@@ -1,0 +1,70 @@
+{
+  "summary": "Global net zero carbon emissions before 2050 is highly unlikely under current technologies and policies due to rising energy demand, slow sectoral transitions, and uneven global action. Achieving net zero requires unprecedented coordination, investment, and societal change. Regional or sectoral net zero may occur sooner, but global net zero is more plausible between 2060 and 2080.",
+  "key_predictions": [
+    {
+      "prediction": "Global emissions likely to plateau but not decline sharply by 2025; clean energy share rises but fossil fuel use remains robust.",
+      "time_horizon": "near",
+      "confidence": 0.8
+    },
+    {
+      "prediction": "Some countries/regions achieve significant emissions reductions by 2030; global emissions may peak but net zero remains distant.",
+      "time_horizon": "medium",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "Net zero achieved in a few advanced economies and sectors by 2040; global emissions decline more rapidly but large residual emissions persist.",
+      "time_horizon": "medium",
+      "confidence": 0.6
+    },
+    {
+      "prediction": "Global net zero not achieved by 2050; plausible global net zero range is 2060–2080 under current trajectories.",
+      "time_horizon": "long",
+      "confidence": 0.9
+    }
+  ],
+  "assumptions": [
+    "No major global war or economic collapse",
+    "Current rate of technological innovation persists",
+    "International climate agreements remain voluntary",
+    "Negative emissions technologies scale slowly",
+    "Developing world prioritizes growth with gradual shift to clean energy"
+  ],
+  "uncertainties": [
+    "Scalability and cost reductions of negative emissions technologies",
+    "Effectiveness and enforcement of international climate policies",
+    "Geopolitical and economic shocks impacting climate action",
+    "Public acceptance and socio-political durability of climate policies",
+    "Rate of energy demand growth in developing economies"
+  ],
+  "signals_to_monitor": [
+    "Breakthroughs in negative emissions technologies (e.g., direct air capture)",
+    "Global carbon pricing or binding treaties with enforcement",
+    "Massive coordinated investment shifts away from fossil fuels",
+    "Rapid phase-out of coal and oil globally",
+    "Major behavioral shifts such as reduced meat consumption and travel",
+    "Global emissions data (annual)",
+    "Clean technology cost and adoption rates (quarterly)",
+    "Policy announcements (real-time)",
+    "Capital flows to green vs. fossil assets (quarterly)",
+    "Corporate net zero commitments and disclosures"
+  ],
+  "next_questions": [
+    "What are the most promising negative emissions technologies and their realistic scaling timelines?",
+    "Which countries or sectors are likely to reach net zero first and why?",
+    "How might geopolitical or economic shocks accelerate or delay the transition?",
+    "What policy mechanisms have proven most effective in driving rapid decarbonization?",
+    "How can equity and justice be incorporated into the global net zero transition?"
+  ],
+  "extracted_at": "2026-06-20T13:36:21.857477+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "climate and energy",
+    "question": "Will global net carbon emissions reach net zero before 2050 through current or emerging technologies and policies?",
+    "why_it_matters": "Achieving net zero is critical to limit catastrophic climate impacts and guide investment and policy decisions.",
+    "time_horizon": "long",
+    "signals_to_watch": [
+      "annual global carbon emission data",
+      "adoption rates of clean energy technologies"
+    ]
+  }
+}

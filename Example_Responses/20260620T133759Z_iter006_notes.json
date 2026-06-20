@@ -1,0 +1,69 @@
+{
+  "summary": "Reliable, human-level AGI capable of autonomous decision-making in high-stakes contexts is plausibly achievable between the late 2030s and 2050s, though significant uncertainty remains due to technical, societal, and regulatory factors. Progress depends on breakthroughs in reasoning, alignment, and interpretability, alongside evolving governance and investment climates.",
+  "key_predictions": [
+    {
+      "prediction": "AGI will not be achieved by 2025-2030; narrow AI will increasingly automate sub-tasks in high-stakes contexts but remain under human supervision.",
+      "time_horizon": "near",
+      "confidence": 0.9
+    },
+    {
+      "prediction": "Between 2030-2040, first credible demonstrations of AGI-level performance will occur in constrained, high-stakes settings, though deployment will be limited by reliability and alignment concerns.",
+      "time_horizon": "medium",
+      "confidence": 0.7
+    },
+    {
+      "prediction": "Between 2040-2050, reliable, human-level autonomous AGI decision-making in multiple high-stakes domains is plausible, contingent on overcoming technical and regulatory hurdles.",
+      "time_horizon": "medium",
+      "confidence": 0.6
+    },
+    {
+      "prediction": "Post-2050, if major setbacks or bottlenecks occur, reliable AGI in high-stakes contexts may be delayed further.",
+      "time_horizon": "long",
+      "confidence": 0.5
+    }
+  ],
+  "assumptions": [
+    "Current AI scaling laws continue to hold but will eventually face diminishing returns requiring new paradigms.",
+    "Reliable AGI means performance at least as safe and robust as expert human decision-makers with transparent failure modes.",
+    "Societal and regulatory responses will be reactive to visible risks rather than purely proactive.",
+    "High-stakes contexts include healthcare, law, finance, and national security."
+  ],
+  "uncertainties": [
+    "Definition and measurement of 'reliable' and 'human-level' performance in diverse high-stakes domains.",
+    "Scalability and applicability of current AI paradigms to achieve robust reasoning, planning, and alignment.",
+    "Impact of societal feedback loops including public sentiment, regulation, and geopolitical competition.",
+    "Potential for unforeseen technical or alignment challenges to stall progress.",
+    "Effectiveness and timing of regulatory frameworks and safety standards."
+  ],
+  "signals_to_monitor": [
+    "Breakthroughs in robust reasoning, planning, and transfer learning.",
+    "AI systems consistently outperforming humans in complex, high-stakes simulations.",
+    "Development and deployment of effective, scalable alignment and interpretability solutions.",
+    "Major governments or corporations piloting AGI in critical infrastructure.",
+    "High-profile AI failures or accidents in high-stakes contexts.",
+    "Regulatory moratoriums on advanced AI research or deployment.",
+    "Stagnation in scaling laws or hardware progress.",
+    "Evidence of insurmountable alignment or robustness challenges."
+  ],
+  "next_questions": [
+    "What technical benchmarks best capture 'reliable, human-level' performance in high-stakes contexts?",
+    "How will society define and enforce 'acceptable risk' for AGI in critical systems?",
+    "What are the most promising approaches for scalable alignment and interpretability?",
+    "How might geopolitical competition accelerate or constrain AGI deployment?",
+    "What early warning indicators could signal an impending AGI breakthrough or major setback?"
+  ],
+  "extracted_at": "2026-06-20T13:38:33.136305+00:00",
+  "extractor_model": "gpt-4.1-mini",
+  "source_question": {
+    "domain": "artificial intelligence",
+    "question": "What is the earliest plausible timeframe in which artificial general intelligence (AGI) will achieve reliable human-level autonomous decision-making in high-stakes contexts?",
+    "why_it_matters": "Knowing this timeline impacts investment, regulation, and safety preparations for transformative AI technologies.",
+    "time_horizon": "medium",
+    "signals_to_watch": [
+      "major AI lab breakthroughs",
+      "scaling of training compute",
+      "regulatory frameworks",
+      "deployment in critical sectors"
+    ]
+  }
+}
