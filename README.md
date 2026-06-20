@@ -749,15 +749,8 @@ Whether to ignore `runs/` and `archive/` depends on your workflow. If you want t
 ---
 
 ## License
-
-Choose whatever license fits your intent. Common options:
-
-- MIT: simple and permissive
+*SEE LICENSE FILE*
 - Apache-2.0: permissive with explicit patent language
-- GPL-3.0: requires derivatives to remain open source
-
-If unsure, MIT is usually the easiest starting point for a small prototype.
-
 ---
 
 ## One-Sentence Summary
