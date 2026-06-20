@@ -64,6 +64,7 @@ deepthought_project/
 │   ├── ask_deep_model.py
 │   ├── extract_structured_notes.py
 │   ├── save_to_archive.py
+│   ├── score_archive.py
 │   └── loop.py
 ├── .env.example
 ├── requirements.txt
@@ -79,7 +80,8 @@ deepthought_project/
 | `ask_deep_model.py` | Sends the selected question to the deeper analysis model. |
 | `extract_structured_notes.py` | Extracts structured predictions, assumptions, uncertainties, signals, and next questions. |
 | `save_to_archive.py` | Copies the run artifacts into a durable archive and appends index records. |
-| `loop.py` | Runs the whole pipeline for one or more iterations. |
+| `score_archive.py` | Audits prior runs, detects repeated domains/themes, and creates diversity guidance for the next loop. |
+| `loop.py` | Runs the whole pipeline for one or more iterations, with archive-aware diversity enabled by default. |
 
 ---
 
@@ -103,17 +105,54 @@ Optional next iteration
 
 More concretely:
 
-1. `generate_questions.py` creates several candidate questions across domains like AI, infrastructure, economics, governance, science, climate, energy, culture, and media.
-2. `select_best_question.py` scores each candidate using weighted criteria:
+1. `score_archive.py` reads previous runs and creates diversity guidance: underexplored domains, overrepresented domains, repeated themes, and recent questions to avoid.
+2. `generate_questions.py` creates several candidate questions across the active domain set. By default, `loop.py` feeds it underexplored domains from the archive instead of always using the full list.
+3. `select_best_question.py` scores each candidate using weighted criteria:
    - importance
    - uncertainty
    - actionability
    - novelty
    - falsifiability
-3. `ask_deep_model.py` asks the selected question to a stronger model and requests a detailed analysis.
-4. `extract_structured_notes.py` converts that analysis into machine-readable notes.
-5. `save_to_archive.py` saves the artifacts into an archive directory and updates JSONL indexes.
-6. `loop.py` orchestrates the whole flow.
+4. `ask_deep_model.py` asks the selected question to a stronger model and requests a detailed analysis with current-date discipline and resolution criteria.
+5. `extract_structured_notes.py` converts that analysis into machine-readable notes.
+6. `save_to_archive.py` saves the artifacts into an archive directory and updates JSONL indexes.
+7. `loop.py` orchestrates the whole flow.
+
+
+### Archive-Aware Diversity
+
+The updated loop includes a small self-auditor: `score_archive.py`. Before each iteration, it scans prior `runs/` and `archive/` artifacts and produces guidance like:
+
+```text
+Prefer underexplored domains this run: civilization and governance, culture and media, technology infrastructure
+Penalize overrepresented domains unless the question is exceptionally new: artificial intelligence, climate and energy
+Do not repeat or closely paraphrase these recent questions: ...
+```
+
+`loop.py` uses this guidance in two places:
+
+1. **Question generation:** by default, it feeds the generator a rotating set of underexplored domains.
+2. **Question selection:** it applies deterministic diversity adjustments after the judge scores each candidate. Repeated domains and close paraphrases get penalized; underexplored domains get a small bonus.
+
+This is designed to prevent the system from falling into one giant topic gravity well, such as asking about AGI twenty-five times in a row while climate, labor, infrastructure, health, governance, and culture sit outside the observatory eating cold soup. 🥣
+
+Disable this behavior with:
+
+```bash
+python loop.py --iterations 5 --no-diversity
+```
+
+Change how aggressively the loop narrows toward underexplored domains:
+
+```bash
+python loop.py --iterations 10 --domain-strategy underexplored --domain-window 4
+```
+
+Use all domains but still apply selection penalties:
+
+```bash
+python loop.py --iterations 10 --domain-strategy all
+```
 
 ---
 
@@ -394,6 +433,33 @@ archive/index.jsonl
 archive/signal_watchlist.jsonl
 ```
 
+### Score the Archive
+
+Run the archive auditor by itself:
+
+```bash
+python score_archive.py --runs-dir runs --archive-dir archive
+```
+
+Print only the human-readable steering memo:
+
+```bash
+python score_archive.py --runs-dir runs --archive-dir archive --print-guidance
+```
+
+Save the score report for inspection or manual use:
+
+```bash
+python score_archive.py --runs-dir runs --archive-dir archive --out runs/archive_score.json
+```
+
+Then pass that guidance into the individual question scripts:
+
+```bash
+python generate_questions.py --count 8 --guidance-file runs/archive_score.json --out runs/test_questions.json
+python select_best_question.py runs/test_questions.json --guidance-file runs/archive_score.json --out runs/test_selected.json
+```
+
 ---
 
 ## Output Files
@@ -408,6 +474,7 @@ Example:
 
 ```text
 runs/
+├── 20260620T030307Z_iter001_archive_score.json
 ├── 20260620T030307Z_iter001_questions.json
 ├── 20260620T030307Z_iter001_selected.json
 ├── 20260620T030307Z_iter001_answer.json
@@ -471,7 +538,11 @@ This is one of the most useful long-term artifacts. Over time, it can become a f
 | `--iterations` | `1` | Number of DeepThought loops to run. |
 | `--sleep-seconds` | `0.0` | Delay between iterations. |
 | `--count` | `8` | Number of candidate questions to generate. |
-| `--domains` | built-in list | Domains to consider when generating questions. |
+| `--domains` | built-in list | Domains available to the generator. |
+| `--no-diversity` | disabled | Turns off archive scoring and diversity steering. |
+| `--recent-window` | `8` | Recent questions used for repetition penalties. |
+| `--domain-strategy` | `underexplored` | `underexplored` narrows generation to low-count domains; `all` uses every provided domain. |
+| `--domain-window` | `5` | Number of underexplored domains passed to the generator. |
 | `--runs-dir` | `runs` | Directory for raw run files. |
 | `--archive-dir` | `archive` | Directory for durable archived outputs. |
 | `--question-model` | `gpt-4.1-mini` | Model used to generate candidate questions. |
@@ -621,6 +692,32 @@ If a call fails, the script prints a message like:
 
 The scripts ask the model for JSON and use `response_format={"type": "json_object"}` where appropriate. If the model or API behavior changes, malformed JSON may still happen. The current code catches failures and uses fallback logic.
 
+### The outputs feel repetitive
+
+Archive-aware diversity is enabled by default:
+
+```bash
+python loop.py --iterations 10
+```
+
+For a stronger diversity push, reduce the underexplored domain window:
+
+```bash
+python loop.py --iterations 10 --domain-strategy underexplored --domain-window 3
+```
+
+To inspect what the system thinks is overused:
+
+```bash
+python score_archive.py --runs-dir runs --archive-dir archive --print-guidance
+```
+
+To keep all domains in the generator but still penalize repeated selections:
+
+```bash
+python loop.py --iterations 10 --domain-strategy all
+```
+
 ---
 
 ## Safety and Practical Notes
@@ -749,8 +846,9 @@ Whether to ignore `runs/` and `archive/` depends on your workflow. If you want t
 ---
 
 ## License
+
 *SEE LICENSE FILE*
-- Apache-2.0: permissive with explicit patent language
+
 ---
 
 ## One-Sentence Summary
