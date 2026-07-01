@@ -1,4 +1,4 @@
-# Project DeepThought
+# Project DeepThoughts
 
 > A recursive AI inquiry engine for discovering high-leverage unknowns, asking stronger models to analyze them, and archiving the resulting forecasts, assumptions, signals, and next questions.
 
